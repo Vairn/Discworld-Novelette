@@ -57,63 +57,121 @@ As for the baby, Vimes reflected, Lady Sybil had been looking for a cause to cha
 
 Outside, the city continued its eternal business of being complicated and morally ambiguous, but inside the squalid room where Sarah Palmley had died, Commander Vimes was quietly planning to make someone's day considerably worse.
 
-It was, he reflected, exactly the sort of case that reminded him why he'd become a policeman in the first place.
+He was examining the shawl that had been used to strangle Sarah when the temperature in the room dropped several degrees. Not the sort of gradual cooling that came from an evening breeze, but the sudden, profound cold that suggested someone had opened a door between this world and somewhere considerably less hospitable.
+
+COMMANDER VIMES.
+
+Vimes didn't turn around immediately. In his experience, dramatic entrances worked better when you didn't give them your full attention right away. Instead, he continued studying the murder weapon, noting the professional way it had been twisted.
+
+"Death," he said calmly. "I was wondering when you'd show up. Though I have to say, you're usually more punctual about these things."
+
+I DID NOT COME FOR HER.
+
+This made Vimes look up. Death stood in the doorway, his presence somehow making the small room feel even more cramped and squalid. But there was something unusual about his posture—an uncertainty that didn't fit with the normal confidence of an anthropomorphic personification going about his business.
+
+"You didn't come for Sarah Palmley? She's definitely dead."
+
+I KNOW. BUT I WAS NOT... SUMMONED.
+
+"Summoned?"
+
+WHEN SOMEONE DIES, I AM AWARE OF IT. I FEEL THE MOMENT OF TRANSITION. THERE IS A... PULL... THAT DRAWS ME TO GUIDE THEIR PASSAGE. Death examined the scene with what might have been professional interest. BUT WITH THIS WOMAN, THERE WAS NO SUMMONS. SHE DIED, BUT SOMETHING PREVENTED THE NORMAL PROCESS.
+
+Vimes felt the familiar chill that came when a straightforward murder case started involving supernatural complications. "What sort of something?"
+
+I DO NOT KNOW. THAT IS WHY I AM HERE. Death moved closer to examine Sarah's body with the sort of clinical attention that most people found disturbing. IN RECENT WEEKS, THERE HAVE BEEN... IRREGULARITIES. PEOPLE DYING WHO SHOULD NOT YET DIE, WITHOUT THE PROPER... PROTOCOLS.
+
+"Protocols?"
+
+THE NATURAL ORDER, COMMANDER. DEATH HAS PROCEDURES. SCHEDULES. WHEN SOMEONE'S TIME COMES, I AM THERE TO GUIDE THE TRANSITION. BUT THESE MURDERS... THEY ARE OCCURRING OUTSIDE THE PROPER CHANNELS.
+
+Vimes studied Death with the sort of professional attention he usually reserved for witnesses who might be lying or telling the truth in ways that would make his life more complicated. "Are you telling me that someone is committing murders that even Death didn't see coming?"
+
+PRECISELY. AND THAT, COMMANDER, IS EXTREMELY CONCERNING.
+
+"Because?"
+
+BECAUSE IT SUGGESTS SOMEONE HAS THE POWER TO INTERFERE WITH DEATH ITSELF. AND VERY FEW ENTITIES POSSESS SUCH AUTHORITY.
+
+The baby stirred in her drawer, making small sounds that reminded them both that some problems required immediate practical solutions regardless of their cosmic implications.
+
+"Right then," Vimes said, settling his thoughts into the sort of grim focus that had served him through decades of complicated cases. "Looks like we have a partner investigation. You handle the supernatural irregularities, I'll handle the criminal evidence. Between us, we might actually solve this thing."
+
+I WOULD APPRECIATE THE ASSISTANCE, Death admitted. I FIND MYSELF... UNCERTAIN... ABOUT THE PROPER PROCEDURES FOR INVESTIGATING MY OWN PROFESSIONAL DISRUPTION.
+
+"Don't worry about that," Vimes said, lighting a cigar. "I've been investigating impossible things for years. The trick is to treat them like regular crimes until they prove otherwise."
+
+It was, he reflected, exactly the sort of case that reminded him why he'd become a policeman in the first place. Even if the jurisdiction was getting a bit more complicated than usual.
 
 ---
 
 ### Chapter 2: The Pattern
 
-Commander Sam Vimes stood over what was becoming an uncomfortably familiar sight: another body that shouldn't exist. This time it was Marcus Cripley, a private investigator who had specialized in finding things that important people preferred to stay lost. The sort of man who made his living from other people's secrets, which was honest work in its way, though it tended to create a remarkably diverse collection of individuals who might have strong opinions about your continued existence.
+The fourth murder scene was proving to be just as mystifying as the first three, with the added complication that Death was now examining evidence with the sort of professional interest that suggested he was either learning new investigative techniques or developing concerning hobbies.
 
-But Cripley wasn't just another corpse with a professionally interesting list of enemies. He was the fourth similar murder in recent weeks, and something about the pattern was making Vimes's policeman's instincts itch like a rash.
+Commander Sam Vimes stood over the body of Marcus Cripley, a private investigator who had specialized in finding things that important people preferred to stay lost. The sort of man who made his living from other people's secrets, which was honest work in its way, though it tended to create a remarkably diverse collection of individuals who might have strong opinions about your continued existence.
 
-"This is getting ridiculous," Vimes muttered, crouching beside the body. Cripley had been killed with a single thrust to the heart—professional, clean, and entirely too efficient for a crime of passion. No struggle, no defensive wounds, no signs of the victim attempting to flee or fight back. Just death, delivered with mechanical precision.
+"Same killer," Vimes said, not needing confirmation but appreciating professional consensus. "Same technique, same efficiency, same complete lack of passion."
 
-Captain Carrot arrived with the sort of punctual reliability that made Vimes suspect he had been quietly organizing the universe when no one was looking.
+SAME ABSENCE OF PROPER PROTOCOLS, Death added, crouching beside the body with the sort of skeletal grace that came from never having to worry about joint pain. I WAS NOT SUMMONED FOR THIS ONE EITHER.
 
-"Commander," Carrot said, examining the scene with the methodical attention that had made him the Watch's most thorough investigator. "This is the same killer, isn't it?"
+"So someone's murdering people in a way that bypasses Death himself," Vimes mused, lighting a cigar. "That's either very impressive or very stupid, depending on your perspective."
 
-"Same methodology. Single wound, professional technique, no unnecessary violence." Vimes stood, brushing dust from his knees. "What do we know about the connection between the victims?"
+Captain Carrot arrived with his usual punctual efficiency, followed by Sergeant Angua, who immediately began examining the crime scene with the sort of focused attention that came from having senses considerably more acute than those possessed by normal humans.
 
-"Professional," Angua said immediately. "Clean kills, no unnecessary violence, no sexual motivation. This is someone who treats murder like a job."
+"Commander," Carrot said, then stopped and stared at Death with the expression of someone whose training had covered many unusual situations but not specifically this one. "Ah. Death. Good morning."
 
-"Someone with access to information about people's near-death experiences," Carrot added. "They knew exactly who had survived things that should have killed them recently. Sarah Palmley, Thomas Keel, Margaret Dowdy, and now Marcus Cripley. Different ages, different neighborhoods, different social classes. No obvious personal connections."
+GOOD MORNING, CAPTAIN CARROT. I AM ASSISTING WITH THE INVESTIGATION.
 
-"But?"
+"Right. Of course." Carrot consulted his notebook with the sort of professional adaptability that had made him the Watch's most reliable officer. "What do we know about the connection between the victims?"
 
-"But there's something odd about all of them. They all seem to have survived things that should have killed them recently. Sarah survived a difficult childbirth that kills many women. Thomas walked away from what should have been a fatal carriage accident last month. Margaret recovered from consumption when the doctors said she had days to live."
+"They all survived things that should have killed them," Vimes said. "Sarah Palmley survived a difficult childbirth. Thomas Keel walked away from a carriage accident. Margaret Dowdy recovered from consumption. And Marcus here was investigating insurance fraud cases involving people who'd had similar experiences."
 
-Vimes lit a cigar, noting how the flame seemed steadier than it should have in the drafty room. "Someone's killing people who got lucky. People who cheated death."
+"People who nearly died but didn't," Angua added, her nose twitching as she followed a scent trail around the room. "Someone's tracking people who've cheated death, then killing them."
 
-"That's... a very specific type of murder, Commander."
+THEY DID NOT CHEAT DEATH, Death said with the sort of precision that suggested professional standards were at stake. THEY SURVIVED ACCORDING TO THE NATURAL ORDER. THEIR TIME HAD NOT YET COME. Death examined the murder weapon with interest. BUT SOMEONE IS ELIMINATING THEM BEFORE THEIR PROPER TIME, WHICH CREATES... IRREGULARITIES.
 
-"Indeed it is, Carrot. The question is: how does our killer know about these near-death experiences? And why does he care enough to murder people for surviving them?"
+"What sort of irregularities?" Carrot asked.
 
-Sergeant Angua appeared in the doorway, her nose twitching with the sort of precision that came from having senses considerably more acute than those possessed by normal humans. "There's something odd about this crime scene, Commander."
+COSMIC ONES. WHEN SOMEONE DIES OUTSIDE THE PROPER SCHEDULE, IT AFFECTS THE BALANCE OF THINGS. REALITY BECOMES... LESS STABLE.
 
-"Odd how?"
+Angua paused in her scent tracking. "Commander, there's something else. The same chemical signature from the other crime scenes, but stronger. And there's something..." she concentrated, "...something that smells like paperwork. Bureaucracy. The sort of administrative smell you get in government offices."
 
-"It smells... wrong. Like someone else was here recently. Someone who..." she paused, concentrating. "Someone who doesn't smell quite human. There's something else I can't quite identify."
+"Paperwork?" Vimes asked.
 
-Vimes felt the familiar prickle of recognition that came when a case shifted from merely complicated to genuinely strange. In Ankh-Morpork, strange usually meant supernatural, and supernatural usually meant paperwork.
+"Rubber stamps, filing cabinets, that particular blend of ink and disappointment that suggests forms being filled out in triplicate."
 
-"Right then," he said finally. "Carrot, I want you to compile everything we know about these four victims. Look for patterns, connections, anything that might explain why someone would target them specifically. Angua, see if you can track that scent. And send Cheery down to examine the forensic evidence."
+Death appeared thoughtful. THERE ARE ENTITIES THAT TREAT EXISTENCE AS AN ADMINISTRATIVE PROBLEM.
+
+"What kind of entities?"
+
+THE KIND THAT VALUE ORDER ABOVE LIFE, EFFICIENCY ABOVE COMPASSION. THE KIND THAT WOULD CONSIDER UNAUTHORIZED SURVIVAL TO BE A FILING ERROR REQUIRING CORRECTION.
+
+Vimes felt the familiar chill that came when a case shifted from merely complicated to potentially catastrophic. "Are you telling me that cosmic bureaucrats are hiring assassins to kill people for not dying on schedule?"
+
+THAT WOULD BE... CONSISTENT WITH RECENT EVENTS.
+
+"Right then," Vimes said, settling into the sort of grim determination that had served him through decades of complicated cases. "Carrot, I want you to start compiling information about all four victims. Look for who might have access to their medical records, accident reports, anything that would tell someone about their near-death experiences. Angua, follow that bureaucratic scent. See where it leads."
 
 "What about you, Commander?" Carrot asked.
 
-"I'm going to think about why someone would kill people for surviving near-death experiences. And why that makes me very nervous about what we're dealing with."
+"Death and I are going to have a conversation about cosmic entities who think murder is a quality control measure. And then we're going to arrest them."
 
-As his officers dispersed to their various tasks, Vimes remained at the crime scene, studying the evidence and trying to ignore the growing certainty that this case was going to require him to have conversations with entities that most people preferred to pretend didn't exist.
+I BELIEVE THAT MAY BE MORE COMPLICATED THAN USUAL POLICE PROCEDURES, Death observed.
 
-Some days, he reflected, being a policeman in Ankh-Morpork was considerably more complicated than the recruitment pamphlets suggested.
+"Probably," Vimes agreed. "But the principle's the same. Someone's committing murder in my city, which makes it my problem. The fact that they're doing it for cosmic reasons just means we'll need different paperwork."
+
+Some days, he reflected, being a policeman in Ankh-Morpork required considerable flexibility in one's definition of jurisdiction.
 
 ---
 
 ### Chapter 3: The Investigation
 
-Vimes gathered his officers in the main office of the Watch House, which had been cleared of wedding planning materials and returned to its more familiar state of organized chaos. Captain Carrot had prepared a detailed summary of the case with the sort of methodical thoroughness that made hardened criminals confess to things they hadn't even thought of doing yet, while Sergeant Colon had contributed a pot of coffee strong enough to wake the dead and possibly offer them employment opportunities.
+Vimes gathered his officers in the main office of the Watch House, which had been cleared of wedding planning materials and returned to its more familiar state of organized chaos. Death sat in one of the visitor's chairs with the sort of stillness that suggested he was either deep in thought or had temporarily forgotten how to exist. Captain Carrot had prepared a detailed summary of the case with the sort of methodical thoroughness that made hardened criminals confess to things they hadn't even thought of doing yet, while Sergeant Colon had contributed a pot of coffee strong enough to wake the dead and possibly offer them employment opportunities.
 
-"Right then," Vimes said, studying the evidence board that Cheery had constructed with military precision. "Four murders in four days. All people who should have died months ago but didn't. Someone's cleaning house, and we're going to find out who."
+The presence of Death had created what Vimes privately thought of as "an interesting dynamic" among his officers. Cheery kept glancing at him with the sort of professional curiosity that suggested she was wondering about the forensic applications of skeletal anatomy. Nobby seemed disappointed that Death wasn't wearing a more dramatic costume. And Sergeant Colon kept offering him tea, apparently under the impression that Death might be cold.
+
+"Right then," Vimes said, studying the evidence board that Cheery had constructed with military precision. "Four murders in four days. All people who survived things that should have killed them. Someone's cleaning house, and we're going to find out who."
 
 The evidence board was a masterpiece of investigative organization. Photographs of the victims were arranged in chronological order, connected by red string to locations, potential motives, and known associates. Maps showed the locations of each murder, marked with different colored pins that indicated time of death, method of killing, and proximity to various civic institutions. The overall effect was less "police investigation" and more "military campaign planning," which was probably appropriate given the systematic nature of the crimes.
 
@@ -124,6 +182,8 @@ The evidence board was a masterpiece of investigative organization. Photographs 
 "Someone with access to information about people's near-death experiences," Carrot added. "They knew exactly who had survived things that should have killed them."
 
 "And someone with resources," Cheery contributed. "The weapons were different each time - knife, poison, garrote, blunt instrument. Either they have a large collection, or they can acquire whatever they need for each specific job."
+
+SOMEONE WHO OPERATES OUTSIDE THE NORMAL CHANNELS OF MORTALITY, Death added. THE MURDERS CREATE NO RIPPLES IN THE COSMIC ORDER, NO DISTURBANCE IN THE NATURAL FLOW OF THINGS. WHICH SUGGESTS THEY ARE BEING CONDUCTED BY ENTITIES THAT UNDERSTAND HOW TO... CIRCUMVENT... NORMAL PROCESSES.
 
 Nobby raised his hand. "Also, someone who doesn't like weddings very much."
 
@@ -595,7 +655,7 @@ But what caught Vimes's attention wasn't the usual chaos of wedding planning tha
 
 Vimes paused in the doorway. "Cheery, please tell me you're not planning Carrot's wedding security based on a serial killer's victim selection criteria."
 
-"Actually, Commander," Carrot said, looking up from what Vimes now realized was a comprehensive analysis of Death's "delayed collections," "we've been cross-referencing the murder victims with the guest list. It's quite concerning."
+"Actually, Commander," Carrot said, looking up from what Vimes now realized was a comprehensive analysis of Death's "delayed transitions," "we've been cross-referencing the murder victims with the guest list. It's quite concerning."
 
 "How concerning?"
 
@@ -615,7 +675,7 @@ INDEED, said Death, materializing beside the desk with the sort of timing that s
 
 "Occasions of joy?"
 
-WEDDINGS, BIRTHS, CELEBRATIONS. MOMENTS WHEN DEATH SEEMS... INAPPROPRIATE. Death gestured toward the crime scene photographs. I HAVE BEEN POSTPONING COLLECTIONS THAT WOULD INTERFERE WITH HAPPINESS.
+WEDDINGS, BIRTHS, CELEBRATIONS. MOMENTS WHEN DEATH SEEMS... INAPPROPRIATE. Death gestured toward the crime scene photographs. I HAVE BEEN POSTPONING TRANSITIONS THAT WOULD INTERFERE WITH HAPPINESS.
 
 "So our killer knows this, and is specifically targeting people whose deaths you've delayed because they were celebrating something?"
 
@@ -894,13 +954,13 @@ I HAVE BEEN... EXPERIENCING... CERTAIN DIFFICULTIES WITH MY DUTIES.
 
 "What sort of difficulties?"
 
-I HAVE BEEN FINDING IT... CHALLENGING... TO COLLECT PEOPLE AT MOMENTS OF GREAT JOY OR TRAGEDY. A WOMAN GIVING BIRTH. A MAN ON HIS WAY TO A WEDDING. SOMEONE CELEBRATING WITH FAMILY.
+I HAVE BEEN FINDING IT... CHALLENGING... TO GUIDE PEOPLE'S TRANSITIONS AT MOMENTS OF GREAT JOY OR TRAGEDY. A WOMAN GIVING BIRTH. A MAN ON HIS WAY TO A WEDDING. SOMEONE CELEBRATING WITH FAMILY.
 
 "You've been going soft."
 
 Death considered this with the sort of careful attention. PERHAPS. IT SEEMS... UNNECESSARILY CRUEL... TO INTERRUPT SUCH MOMENTS.
 
-"So you've been delaying collections?"
+"So you've been delaying transitions?"
 
 OCCASIONALLY. BRIEFLY. LONG ENOUGH FOR THE CELEBRATION TO FINISH, OR THE BABY TO BE SAFELY BORN. I TELL MYSELF IT IS... ADMINISTRATIVE EFFICIENCY.
 
@@ -962,6 +1022,8 @@ The next morning, Vimes called an all-hands meeting in the Watch House's main of
 
 The evidence board dominated one wall, covered with photographs, maps, timelines, and the red string that connected everything to everything else in ways that made perfect sense if you understood how police investigations actually worked. Captain Carrot had prepared a comprehensive summary of their findings, Cheery had organized her forensic evidence with military precision, and even Nobby had managed to contribute a surprisingly coherent report about the insurance fraud connections, though he kept adjusting his collar in a way that suggested he was still getting used to wearing normal clothes again.
 
+Constable Reg Shoe sat in the back, taking notes with the methodical attention of someone who understood that paperwork was eternal, even if you weren't. As the Watch's only undead officer, he had been following the case with particular interest, especially since it seemed to involve fundamental questions about the nature of death and whether people had the right to remain alive past their scheduled expiration dates.
+
 "Right then," Vimes said, surveying his assembled officers with the sort of grim satisfaction that came from finally having enough pieces of the puzzle to see the complete picture. "I've got some new information about our killer, and about why these particular people were targeted."
 
 He lit a cigar, using the few seconds of ritual to organize his thoughts. What he was about to tell them was going to sound completely mad, but it was also the truth, and his officers deserved to know what they were really dealing with.
@@ -987,6 +1049,12 @@ This was the question Vimes had been dreading. How do you explain that Death him
 "I have... sources... with access to information about these matters," he said carefully. "The important thing is that someone with considerable resources has decided these postponements represent errors that need correcting."
 
 "Someone's killing people for not dying on schedule?" Cheery asked, though her expression suggested she was already working out the forensic implications.
+
+"Now hang on just a minute," Reg Shoe interrupted, his voice carrying the sort of righteous indignation that came from someone who had personal experience with irregular death scheduling. "Are you telling me that people are being murdered for *not* dying when they were supposed to?"
+
+"That's right, Reg."
+
+"That's absolutely outrageous!" Reg stood up, waving his notebook. "I died when I was supposed to, and I'm still working! What's their excuse? If these cosmic entities have a problem with people not staying dead, they should take it up with the proper authorities, not hire assassins!"
 
 "Exactly. They've hired a professional—someone with access to specialized preservation chemicals, detailed knowledge of their victims' backgrounds, and the sort of methodical approach that treats murder like administrative cleanup."
 
@@ -1528,15 +1596,15 @@ GOOD EVENING, Death said, though his voice carried a note of puzzlement.
 
 Death studied Vimes with the intensity of someone examining a complex equation that wasn't adding up correctly.
 
-I... CAME TO COLLECT COMMANDER VIMES. HIS HOUR HAS STRUCK. BUT...
+I... CAME TO GUIDE COMMANDER VIMES'S TRANSITION. HIS HOUR HAS STRUCK. BUT...
 
 "But?" Vimes asked, though he wasn't entirely sure he wanted to know the answer.
 
-BUT I CANNOT. THERE IS... SOMETHING... PREVENTING THE COLLECTION.
+BUT I CANNOT. THERE IS... SOMETHING... PREVENTING THE TRANSITION.
 
 The assassin looked between Death and Vimes with the expression of someone whose professional understanding of the universe had just been significantly complicated.
 
-"You can't collect him?"
+"You can't guide his transition?"
 
 NO. HIS LIFE TIMER CONTINUES TO RUN, BUT SOMETHING IS... INTERFERING... WITH THE NATURAL PROCESS.
 
@@ -1550,7 +1618,7 @@ I HAVE NEVER SEEN ANYTHING LIKE THIS, Death admitted. SOMETHING IS ACTIVELY PRES
 
 "Natural order seems to be having a lot of problems lately," Vimes observed.
 
-The assassin cleared their throat politely. "If Death himself cannot collect the target, then the contract is... beyond our professional scope."
+The assassin cleared their throat politely. "If Death himself cannot guide the target's transition, then the contract is... beyond our professional scope."
 
 INDEED, Death agreed. THIS MATTER REQUIRES... INVESTIGATION.
 
@@ -1592,7 +1660,213 @@ Some irregularities, it seemed, had irregularities of their own.
 
 ---
 
-### Chapter 20: The Direct Approach
+### Chapter 15: The Data Trail
+
+Two days later, Nobby and Colon returned to the Watch House with the sort of expressions that suggested they had discovered something either very important or very disturbing. Possibly both. Death was studying Cheery's forensic equipment with the sort of professional interest that suggested he was either learning new investigative techniques or contemplating career diversification.
+
+"Commander," Colon said, setting down a stack of official documents with the careful reverence usually reserved for evidence in capital crimes. "You're going to want to see this."
+
+THESE DOCUMENTS SMELL OF BUREAUCRACY, Death observed, leaning closer to examine the paperwork. AND SOMETHING ELSE. SOMETHING THAT SUGGESTS THEY WERE CREATED BY ENTITIES THAT DO NOT UNDERSTAND THE VALUE OF INDIVIDUAL EXISTENCE.
+
+The documents were copies of various official records—birth certificates, death certificates, hospital admissions forms, insurance claims, and accident reports. They had been organized with the sort of methodical attention to detail that suggested either excellent police work or an unhealthy obsession with bureaucratic procedure.
+
+"What am I looking at?" Vimes asked.
+
+"Requests for information," Nobby said, consulting his notebook with uncharacteristic seriousness. "Someone's been systematically requesting copies of records related to people who've had near-death experiences."
+
+"Someone official?"
+
+"That's the thing, Commander. The requests all come from something called the 'Quality Assurance Department' of the 'Universal Life Management Corporation.' Very official-looking paperwork, proper stamps, all the right forms."
+
+Colon produced a sample request form. "They've been filing these for months. Always asking for the same information—people who survived accidents, difficult births, serious illnesses, anything that should have been fatal but wasn't."
+
+"And the record keepers just handed over the information?"
+
+"Proper paperwork, Commander. You know how it is—if the forms are filled out correctly, nobody asks questions."
+
+Vimes studied the request form with growing unease. It was professionally prepared, complete with official-looking seals and the sort of elaborate formatting that suggested considerable bureaucratic expertise. But something about it made his policeman's instincts itch.
+
+"Has anyone heard of the Universal Life Management Corporation?"
+
+"That's what we thought you'd ask," Nobby said proudly. "So we checked with the Guild of Merchants and Traders, the Tax Assessment Office, and the Commercial Registry."
+
+"And?"
+
+"There's no such company registered in Ankh-Morpork. Or anywhere else, according to the trade records."
+
+At that moment, Captain Carrot and Sergeant Angua returned from their hospital canvassing, both of them carrying the sort of expressions that suggested their investigation had been educational in ways they hadn't entirely expected.
+
+"Commander," Carrot said, "we need to talk. We've found something disturbing."
+
+"More disturbing than a fictional company collecting information about near-death experiences?"
+
+"Potentially, yes. The hospitals have been visited by representatives from the same Quality Assurance Department. They've been conducting what they call 'efficiency assessments' of patient survival rates."
+
+"Efficiency assessments?"
+
+"They wanted to know why certain patients survived when medical projections suggested they shouldn't have," Angua explained. "The hospital staff thought they were from some sort of medical research organization."
+
+"Did anyone get a good look at these representatives?"
+
+"That's the strange part," Carrot continued. "Everyone remembers them being very professional, very thorough, but nobody can give a detailed description. It's like they were... generically official."
+
+Cheery looked up from her chemical analysis equipment. "That fits with what I've discovered about those preservation compounds. They're not just supernatural—they're specifically designed to prevent things from being remembered clearly. Memory preservation, if you will."
+
+"Memory preservation?"
+
+"Chemicals that ensure witnesses remember seeing someone official and professional, but can't recall specific details. It's very sophisticated work."
+
+Vimes lit a cigar and studied the evidence they'd assembled. A fictional company collecting information about near-death experiences. Generic officials conducting efficiency assessments at hospitals. A professional killer using supernatural preservation compounds to eliminate people who had survived things they weren't supposed to survive.
+
+"Right then," he said finally. "This isn't just murder. This is someone conducting a systematic campaign to eliminate people who've disrupted... what? Some sort of cosmic schedule?"
+
+"It does suggest a rather... elevated... level of organization," Carrot agreed.
+
+"The question is: who has the authority to decide that certain people aren't supposed to be alive? And why do they care enough to hire professional killers to correct the situation?"
+
+Angua's nose twitched. "Commander, there's something else. The scent trail I've been following? It doesn't just lead to boarding houses and hotels. It also leads to several government buildings, including the Post Office and the Tax Assessment Department."
+
+"Our killer's been visiting government offices?"
+
+"Regularly. As if they were... filing reports. Or receiving assignments."
+
+The pieces of the puzzle were starting to form a picture that Vimes didn't like at all. Someone with access to official channels, supernatural resources, and professional killers was systematically eliminating people for the crime of not dying when they were supposed to.
+
+"I think," he said grimly, "we need to have a conversation with some people who understand cosmic scheduling. And I suspect I know who to ask."
+
+---
+
+### Chapter 16: The Municipal Response
+
+The next morning brought an unusual sight: Commander Vimes walking purposefully toward the Patrician's Palace with a folder of evidence, Death walking beside him with the sort of skeletal dignity that suggested he found municipal politics interesting, and the sort of grim expression that suggested he was about to make someone's day considerably more complicated.
+
+Lord Vetinari received them in the Oblong Office with the sort of calm attention that suggested he had been expecting this visit and had already prepared several responses to whatever Vimes was about to tell him. He barely glanced at Death, as if anthropomorphic personifications visiting his office were routine administrative matters.
+
+"Commander. Death," Vetinari said with the sort of polite acknowledgment usually reserved for interdimensional diplomacy. "I trust your investigation has been... illuminating?"
+
+"More than I'd like," Vimes replied, settling into the chair across from Vetinari's desk. "We're dealing with a systematic campaign to murder people who've survived near-death experiences. Professional killer, supernatural resources, and what appears to be cosmic authorization."
+
+"Cosmic authorization?"
+
+Vimes laid out the evidence—the fake company records, the efficiency assessments, the memory-preserving chemicals, the systematic data collection. "Someone with access to supernatural resources and official channels is treating human survival as a quality control problem."
+
+Vetinari finally looked up from his document. "And you believe this represents a threat to municipal stability?"
+
+"I believe this represents someone treating Ankh-Morpork citizens like statistical errors that need to be corrected. Which makes it my problem."
+
+"Indeed." Vetinari stood and moved to his window, looking out over the city with the expression of someone who found the view both instructive and concerning. "The question, Commander, is whether this is a problem that can be solved through conventional law enforcement."
+
+"What do you mean?"
+
+"If, as your evidence suggests, we are dealing with entities that operate according to cosmic rather than municipal authority, then simply arresting them may prove... insufficient."
+
+Vimes felt a familiar chill. "You know who's behind this."
+
+"I have... suspicions. Based on previous encounters with entities that value order above existence, efficiency above compassion, and statistical purity above human life."
+
+"The Auditors of Reality?"
+
+Vetinari turned back to his desk and produced a file that Vimes hadn't seen him retrieve. "The Auditors have a long history of... interventions... when they perceive irregularities in cosmic order. Usually they work through intermediaries to avoid direct involvement in messy, unpredictable activities like murder."
+
+"So they hire professional killers."
+
+"They engage quality control specialists to address statistical anomalies. The terminology is important to them—they prefer to think of themselves as maintaining cosmic balance rather than committing murder."
+
+Vimes studied the file Vetinari had produced. It contained reports of similar incidents in other cities, other times. Always the same pattern—people who had survived improbable circumstances, professional killers with access to supernatural resources, and official-looking paperwork that justified the murders as necessary corrections.
+
+"This has happened before?"
+
+"Regularly. Though usually in smaller communities where the local authorities lack the resources to investigate properly. Ankh-Morpork appears to be their first attempt at... large-scale quality control."
+
+"And you've known about this?"
+
+"I've been... monitoring... the situation. The Auditors tend to operate according to predictable patterns. They identify irregularities, authorize corrections, and then move on to other statistical problems. Usually the process takes several months to complete."
+
+Vimes felt his anger rising. "You've been monitoring them while they murder people?"
+
+"I've been gathering evidence, Commander. Evidence that could be used to challenge their authority under cosmic law. The Auditors may represent perfect order, but perfect order must follow its own rules."
+
+"What rules?"
+
+Vetinari opened the file to a page covered with the sort of dense, bureaucratic language that suggested considerable legal expertise. "Cosmic entities operating within municipal boundaries are subject to local jurisdiction in matters involving the welfare of citizens. It's an obscure provision, but it's legally binding."
+
+"You mean I can arrest them?"
+
+"You can certainly try. Though I suspect the attempt would be more... educational... than successful. However, there may be another approach."
+
+Vetinari closed the file and looked directly at Vimes. "The Auditors operate according to bureaucratic principles. They value procedure, documentation, and proper authority. If we can demonstrate that their quality control program is itself creating irregularities..."
+
+"We can force them to stop?"
+
+"We can present them with a bureaucratic problem that requires their attention. And bureaucratic problems, Commander, have a way of consuming enormous amounts of time and resources."
+
+Vimes grinned grimly. "You want to bury them in paperwork."
+
+"I want to demonstrate that their solution is worse than the problem they're trying to solve. Which, based on your evidence, appears to be the case."
+
+---
+
+### Chapter 17: The Case Against Order
+
+That afternoon, the entire Watch worked with the sort of focused intensity usually reserved for preventing riots or apprehending particularly dangerous criminals. But instead of chasing suspects through the city's more creative neighborhoods, they were building what Vimes had described as "the most important arrest case in the history of law enforcement."
+
+The main office had been transformed into something that looked like a cross between a military command center and a very aggressive accounting firm. Maps covered every available wall surface, marked with pins indicating murder locations, data collection points, and official visits. Tables groaned under the weight of documents, witness statements, and forensic evidence. The air was thick with cigar smoke and the sort of determined concentration that suggested everyone understood the stakes.
+
+"Right then," Vimes said, addressing his assembled officers. "We're going to prove that the Auditors' quality control program is causing more problems than it solves. Which means we need to document every irregularity their murders have created."
+
+Cheery had prepared a detailed analysis of the chemical evidence. "The preservation compounds our killer has been using don't just prevent decay—they actively disrupt natural processes. Every murder site shows elevated levels of temporal distortion, reality fluctuation, and what I can only describe as 'cosmic scarring.'"
+
+"Cosmic scarring?" Carrot asked.
+
+"Damage to the fundamental structure of reality. Small-scale, but cumulative. If this continues, we could see significant disruption to natural law in the affected areas."
+
+"So their solution is making the universe less stable?"
+
+"Considerably less stable. They're treating symptoms while making the underlying condition worse."
+
+Sergeant Angua consulted her tracking notes. "The scent analysis confirms that our killer has been active for months, possibly years. But the chemical signature has been getting stronger recently, which suggests either escalation or desperation."
+
+"Escalation?"
+
+"They're using more powerful preservation compounds for each murder. Either the irregularities are getting harder to eliminate, or the Auditors are getting impatient with the pace of corrections."
+
+Nobby had prepared what he proudly called "a comprehensive analysis of bureaucratic irregularities," which sounded impressive until you realized it was Nobby who had prepared it. Still, his findings were surprisingly thorough.
+
+"The fake company paperwork shows multiple violations of municipal commercial law," he reported. "Unlicensed operation, fraudulent documentation, and failure to pay proper taxes. If the Universal Life Management Corporation were real, they'd owe the city approximately three thousand dollars in back fees."
+
+"And since they're not real?"
+
+"Someone's been conducting illegal commercial activities under false pretenses. Which is fraud, impersonation of a legitimate business entity, and conspiracy to commit murder."
+
+Sergeant Colon had cross-referenced the murder victims with city records and discovered something disturbing. "Commander, the people who were killed weren't just random survivors. They were all... productive members of society. Sarah was a skilled seamstress, Thomas was a reliable carriage driver, Margaret did charity work, Marcus was solving insurance fraud cases."
+
+"So?"
+
+"So their deaths have created secondary problems. Sarah's baby needs care, Thomas's regular passengers have lost reliable transportation, Margaret's charity work has stopped, Marcus's cases have gone unsolved. The Auditors haven't just killed four people—they've disrupted dozens of lives."
+
+Captain Carrot had prepared the most comprehensive analysis, combining all their findings into what he called "a formal assessment of cosmic quality control effectiveness."
+
+"The data shows that the Auditors' correction program has generated significantly more irregularities than it has eliminated," he reported. "Each murder has created ripple effects that have disrupted established patterns of social and economic activity."
+
+"Give me specifics."
+
+"Sarah's death left her baby orphaned, requiring intervention by municipal child welfare services. Thomas's death created transportation disruptions that affected seventeen regular customers and three local businesses. Margaret's death stopped charitable activities that were providing assistance to forty-three impoverished families. Marcus's death left twelve active fraud cases unresolved, representing potential losses of over eight thousand dollars."
+
+"And the cosmic scarring Cheery mentioned?"
+
+"Is accumulating faster than natural processes can repair it. At current rates, we're looking at significant reality distortion within six months."
+
+Vimes studied the compiled evidence with growing satisfaction. It was the sort of comprehensive case that would make even cosmic entities think twice about their methodology.
+
+"So," he said finally, "the Auditors' quality control program is causing more chaos than the irregularities they're trying to correct?"
+
+"Significantly more," Carrot confirmed. "Their solution is demonstrably worse than the problem."
+
+"Right then. Time to file some complaints."
+
+---
+
+### Chapter 18: The Direct Approach
 
 The next morning, Vimes did something that few people in the history of the Disc had ever attempted: he filed a formal complaint against cosmic entities.
 
@@ -1692,7 +1966,27 @@ Detritus considered this statement. "Dat true. I understand order very well. Dat
 
 "By committing crimes," Detritus said with the sort of blunt logic that made cosmic philosophy suddenly seem very simple. "Dat not balance. Dat just crime with fancy excuses."
 
-As the Auditors faded back into whatever dimension they came from—apparently having discovered that cosmic authority was somewhat less impressive when confronted by a troll with a clear understanding of right and wrong—Carrot turned to Vimes with the sort of expression that suggested either admiration or concern for his commander's mental health.
+The door opened again and Constable Reg Shoe entered, still carrying his notebook and looking slightly out of breath despite technically not needing to breathe.
+
+"Sorry I'm late, Commander. I was filing the incident reports from—" He stopped and stared at the three gray figures. "Oh. Are these the entities that have been causing all the trouble?"
+
+"WHAT IS THIS?" demanded the first Auditor, apparently even more disturbed by Reg's presence than they had been by Detritus.
+
+"Constable Reg Shoe, Ankh-Morpork City Watch," Reg replied with professional courtesy. "I understand you've been hiring people to kill citizens who didn't die when you thought they should?"
+
+"THAT ENTITY IS ALREADY DEAD," said the second Auditor, its voice carrying a note of cosmic confusion.
+
+"Yes, well spotted," Reg said cheerfully. "I died several years ago on the barricades during the revolution. Very noble cause. But the thing is, I'm still here, still doing my job, still serving the public. Funny how that works, isn't it?"
+
+"THIS IS IMPOSSIBLE. THE DEAD SHOULD REMAIN DEAD."
+
+"Says who?" Reg consulted his notebook. "I've checked the regulations, and there's nothing in municipal law that says being dead disqualifies you from public service. In fact, I'd argue that my continued existence proves that your whole cosmic scheduling system is rather inflexible."
+
+"WE ARE THE AUDITORS OF REALITY. WE DEFINE WHAT IS POSSIBLE."
+
+"Well, you're doing a terrible job of it," Reg said with the sort of professional criticism that civil servants reserved for poorly managed departments. "If dead people can keep working, and living people can survive past their scheduled termination dates, then maybe your system needs updating rather than enforcement through murder."
+
+As the Auditors faded back into whatever dimension they came from—apparently having discovered that cosmic authority was somewhat less impressive when confronted by a troll with a clear understanding of right and wrong and a zombie with strong opinions about administrative competence—Carrot turned to Vimes with the sort of expression that suggested either admiration or concern for his commander's mental health.
 
 "Commander, do you think that was wise?"
 
@@ -1701,6 +1995,176 @@ As the Auditors faded back into whatever dimension they came from—apparently h
 "And if they come back with something worse than assassins?"
 
 Vimes smiled grimly. "Then we'll find out just how far municipal authority extends into cosmic jurisdiction. Should be educational."
+
+As Carrot and Detritus headed out to file their reports, Reg lingered behind, still studying his notes with the sort of professional interest that suggested he was working out the implications of what they'd just witnessed.
+
+"Commander," he said thoughtfully, "can I ask you something? About all this cosmic scheduling business?"
+
+"Go ahead, Reg."
+
+"Well, it's just that I've been thinking about what those Auditors said. About people staying dead when they're supposed to." Reg consulted his notebook. "The thing is, I died when I was supposed to. Very definitely dead. Properly scheduled and everything. But here I am."
+
+At that moment, Death materialized in the chair across from Vimes's desk, appearing with the sort of casual precision that suggested he had been listening to the conversation and had decided it required his input.
+
+"Death," Vimes acknowledged. "Perfect timing."
+
+INDEED. Death studied Reg with interest. CONSTABLE SHOE. I HAVE BEEN MEANING TO SPEAK WITH YOU.
+
+"Oh. Er. Hello, Death," Reg said, suddenly looking uncertain. "I hope there isn't a problem with my... status?"
+
+QUITE THE OPPOSITE. I FIND YOUR CONTINUED EXISTENCE... ILLUMINATING.
+
+"Do you?" Reg perked up. "Because I've been wondering about the mechanics myself. I mean, I went through the whole dying process—very thorough, you were—but then I just... came back."
+
+Death turned to Vimes. COMMANDER, YOU ASKED EARLIER ABOUT THE DIFFERENCE BETWEEN YOUR SITUATION AND THAT OF CONSTABLE SHOE.
+
+"I was wondering about that," Vimes said, lighting a cigar. "You can't guide my transition because of some cosmic irregularity involving friendship and tobacco smoke. But Reg here died properly and just... refused to stay transitioned."
+
+PRECISELY. THE DIFFERENCES ARE... SIGNIFICANT. Death gestured to both of them. YOU, COMMANDER, APPEAR TO BE PROTECTED BY EXTERNAL FORCES—MY OWN RELUCTANCE TO COMPLETE THE TRANSITION, PERHAPS COMBINED WITH OTHER INFLUENCES WE DO NOT YET UNDERSTAND.
+
+"And me?" Reg asked, leaning forward with interest.
+
+CONSTABLE SHOE... Death paused, studying Reg with the sort of attention usually reserved for particularly complex cosmic equations. YOU SIMPLY REFUSED TO ACCEPT DEATH AS FINAL.
+
+"Refused?"
+
+WHEN I GUIDED YOUR TRANSITION, YOU WENT THROUGH THE ENTIRE PROCESS. YOU EXPERIENCED DEATH FULLY—THE CESSATION OF BIOLOGICAL FUNCTION, THE SEPARATION OF SOUL FROM BODY, THE TRANSITION TO... WHATEVER COMES NEXT. BUT THEN...
+
+"Then what?"
+
+THEN YOU LOOKED AROUND, DECIDED THE AFTERLIFE WASN'T FOR YOU, AND CAME BACK. Death's tone carried what might have been admiration. I HAVE NEVER ENCOUNTERED ANYTHING QUITE LIKE IT.
+
+"Really?" Reg seemed pleased. "I just remember thinking that I had work to finish. People depending on me. Rights to defend."
+
+MOST PEOPLE, WHEN THEY DIE, ACCEPT IT. THEY MOVE ON TO WHATEVER AWAITS THEM. YOU... SIMPLY REFUSED TO GO.
+
+"Refused?" Reg looked puzzled. "Well, yes, I suppose that's accurate. I remember you arriving, very professional service, and I just... didn't go with you."
+
+YOU WALKED AWAY.
+
+"I had work to finish! People depending on me. I wasn't ready to stop being useful." Reg consulted his notebook. "I suppose I was rather rude about it, wasn't I? Just told you I'd catch up later and went back to my civic duties."
+
+Death turned to Vimes. I GUIDED HIS TRANSITION. PROPERLY. ACCORDING TO SCHEDULE. BUT HE... REMAINED.
+
+"So you don't actually... process zombies?" Vimes asked.
+
+NO. THEY APPEAR TO... BYPASS... THE ENTIRE SYSTEM. Death's voice carried a note of professional confusion. I GUIDE THEIR TRANSITIONS, BUT THEY DO NOT... STAY TRANSITIONED.
+
+"Oh, we don't go through any official channels," Reg said cheerfully. "We just refuse to accept death as final. Very simple, really. Bit of personal determination, strong sense of duty, and Bob's your uncle - still working despite being technically deceased."
+
+"Also," Reg added thoughtfully, "I'm not the only one, you know."
+
+"The only what?" Vimes asked.
+
+"Zombie. There's Mrs. Cake's neighbor - comes back every few months when his pension's due. Fellow who runs the night shift at the post office - very dedicated to postal service. Lady who tends the memorial garden in Small Gods Cemetery - says someone needs to keep it proper."
+
+Death went very still. THERE ARE... OTHERS?
+
+"Oh yes. Quite a few, actually. We don't really organize or anything - bit hard to schedule meetings when some of us only turn up seasonally - but word gets around." Reg consulted his notebook. "Last I counted, there were at least two dozen of us just in the city. But that's only the ones I know personally."
+
+"How many do you think there are... everywhere?" Vimes asked, though he suspected he wasn't going to like the answer.
+
+"Well, if you extrapolate across the entire Disc..." Reg did some quick calculations. "Hundreds, certainly. Possibly thousands. I mean, every city has people with unfinished business. Every village has someone who just can't let go of their responsibilities."
+
+AND THEY ALL... REFUSE TO STAY TRANSITIONED?
+
+"Pretty much. We all get our transitions guided properly - you do excellent work, very thorough - but then we just... come back. No paperwork required."
+
+Death was quiet for a very long moment. HUNDREDS... POSSIBLY THOUSANDS... OF PEOPLE WHO BYPASS DEATH ENTIRELY.
+
+"Well, we don't bypass it exactly," Reg corrected. "We experience it fully. It's just that we don't consider it... binding."
+
+Vimes whistled low. "So there are thousands of people who've discovered they can just... ignore cosmic authority through sheer bloody-mindedness."
+
+I... Death paused, apparently trying to process this information. I HAD NO IDEA SO MANY PEOPLE COULD SIMPLY... REFUSE TO COOPERATE WITH THE COSMIC ORDER.
+
+"Oh, it's not about refusing to cooperate," Reg said earnestly. "We're very cooperative. We die when we're supposed to, we go through the proper process, we just happen to have continuing obligations that require our attention."
+
+THE AUDITORS... Death's voice carried something approaching panic. THEY MUST BE... HORRIFIED.
+
+"Why? We're not breaking any rules. There's nothing in the cosmic regulations that says you can't come back if you have important work to finish."
+
+THERE... ISN'T?
+
+"Not that I've found. I've checked quite thoroughly. Death is mandatory, but staying dead appears to be... optional."
+
+I... Death paused, apparently trying to process this information. I WAS SIMPLY... PROCESSING PAPERWORK... AS SUBMITTED.
+
+"Very thoroughly, too," Reg said approvingly. "Always got a response within a reasonable timeframe. Much more efficient than most government departments."
+
+Death sighed. I WAS AFRAID YOU MIGHT SAY THAT.
+
+"So," Vimes said slowly, "you're telling me that I can't die because cosmic forces are keeping me alive, while Reg can't stay dead because he's too stubborn to accept it?"
+
+THAT IS... ESSENTIALLY ACCURATE.
+
+"And this doesn't strike you as a problem with the cosmic system?"
+
+COMMANDER, Death said wearily, I AM BEGINNING TO REALIZE THAT THE COSMIC SYSTEM HAS A GREAT MANY PROBLEMS. RIGID SCHEDULING APPEARS TO BE ONLY ONE OF THEM.
+
+Reg raised his hand. "If I may, Death, I think the real issue is flexibility. The Auditors want everything to follow exact schedules, but life—and death—are more complicated than that."
+
+HOW SO?
+
+"Well, look at it this way. I died on the barricades fighting for the people. That was important to me. More important than staying dead, as it turned out. The Commander here does important work protecting the city. Work that apparently transcends normal mortality schedules."
+
+CONTINUE.
+
+"Maybe the problem isn't that people aren't dying when they're supposed to. Maybe the problem is that the schedule isn't accounting for what people actually need to accomplish." Reg consulted his notebook. "Has anyone ever asked Death what he thinks about the cosmic schedule?"
+
+"Good point," Vimes said. "Death, do you think the schedule is... accurate?"
+
+Death was quiet for a long moment. I HAVE BEEN FOLLOWING THE SCHEDULE FOR MILLENNIA. BUT RECENTLY... His voice trailed off.
+
+"Recently what?"
+
+RECENTLY I HAVE BEGUN TO NOTICE THAT SOME DEATHS SEEM... PREMATURE. UNNECESSARY. CRUEL.
+
+"Like Sarah Palmley," Vimes said quietly.
+
+YES. A YOUNG MOTHER, JUST AFTER GIVING BIRTH. THE TIMING SEEMED... INAPPROPRIATE.
+
+"So you delayed it."
+
+YES. AND THOMAS KEEL, ON HIS WAY TO A FAMILY CELEBRATION. AND MARGARET DOWDY, JUST AS SHE WAS RECOVERING FROM A LONG ILLNESS.
+
+"Because it felt wrong."
+
+PRECISELY. Death looked at his hands. I APPEAR TO HAVE DEVELOPED... OPINIONS... ABOUT THE APPROPRIATENESS OF CERTAIN DEATHS.
+
+"That's not a problem," Reg said firmly. "That's progress. You're developing moral judgment."
+
+MORAL JUDGMENT IS NOT PART OF MY JOB DESCRIPTION.
+
+"Maybe it should be," Vimes suggested. "Maybe Death shouldn't be just about following schedules. Maybe it should be about... appropriateness. Dignity. Meaning."
+
+I... HAVE NEVER CONSIDERED THAT POSSIBILITY.
+
+"Well," Reg said, "speaking as someone who's experienced both death and the bureaucracy involved in refusing it, I'd say the system could use some reform."
+
+Death studied both of them—a police commander who couldn't die and a constable who wouldn't stay dead. YOU ARE BOTH... IRREGULARITIES.
+
+"The best kind," Vimes said, taking a satisfied puff of his cigar. "The kind that prove the system needs fixing."
+
+PERHAPS, Death said thoughtfully, THE AUDITORS ARE WRONG. PERHAPS IRREGULARITIES ARE NOT ERRORS TO BE CORRECTED. PERHAPS THEY ARE... IMPROVEMENTS.
+
+"Now you're thinking like a copper," Vimes said approvingly.
+
+As Death faded away, leaving behind only the scent of desert winds and the faint sound of cosmic bureaucracy being quietly revolutionized, Reg looked up from his notebook.
+
+"Well," he said cheerfully, "that was illuminating. I should probably write a report."
+
+"About what?"
+
+"Death developing a conscience. I suspect that's going to have some interesting implications for municipal policy."
+
+Vimes laughed. "Reg, in this job, everything has implications for municipal policy. File it under 'Cosmic Administrative Reform' and we'll sort it out later."
+
+"Right you are, Commander."
+
+As Reg headed out to file what was probably the strangest incident report in the Watch's history, Vimes reflected that some conversations changed everything. Death was developing moral judgment, zombies were filing bureaucratic complaints about their death status, and cosmic entities were learning that municipal law enforcement was more complicated than they'd anticipated.
+
+It was, he thought, probably the most productive day the Watch had ever had.
 
 Outside, the city of Ankh-Morpork continued its eternal business of being complicated and morally ambiguous, but somewhere in the spaces between dimensions, cosmic entities were learning that some local authorities took their responsibilities very seriously indeed.
 
@@ -1816,7 +2280,7 @@ NOW I BELIEVE... Death paused, and his voice became quieter. I BELIEVE I MAY HAV
 
 "Personally invested?"
 
-I DO NOT WISH TO COLLECT YOU, COMMANDER VIMES.
+I DO NOT WISH TO GUIDE YOUR TRANSITION, COMMANDER VIMES.
 
 The admission hung in the air between them like incense, heavy with implications that neither quite knew how to address.
 
@@ -1862,11 +2326,11 @@ THAT IS... ACCURATE.
 
 WHICH IS?
 
-"If Death refuses to collect someone, are they actually dead or not?"
+"If Death refuses to guide someone's transition, are they actually dead or not?"
 
 Death considered this with the sort of concentration usually reserved for cosmic equations. THAT IS... A VERY GOOD QUESTION.
 
-"Because from where I'm sitting, it seems like I might technically be dead already. Just... not collected."
+"Because from where I'm sitting, it seems like I might technically be dead already. Just... not transitioned."
 
 THAT WOULD EXPLAIN THE HOURGLASS.
 
@@ -1902,7 +2366,7 @@ I HAVE DISCOVERED THAT FRIENDSHIP IS MORE IMPORTANT THAN PROFESSIONAL EFFICIENCY
 
 "Has it now?"
 
-DEATH RATES THROUGHOUT THE DISC ARE PROCEEDING NORMALLY. APPARENTLY, ONE DELAYED COLLECTION DOES NOT SIGNIFICANTLY IMPACT OVERALL STATISTICS.
+DEATH RATES THROUGHOUT THE DISC ARE PROCEEDING NORMALLY. APPARENTLY, ONE DELAYED TRANSITION DOES NOT SIGNIFICANTLY IMPACT OVERALL STATISTICS.
 
 "So the universe is... fine with this arrangement?"
 
@@ -1990,7 +2454,7 @@ LU-TZE. I WAS HOPING YOU MIGHT HAVE... INSIGHTS... INTO TEMPORAL MATTERS.
 
 "Temporal matters are my specialty, as you well know. Been keeping an eye on your policeman friend, actually. Interesting case, that one. Very interesting indeed."
 
-I CANNOT UNDERSTAND WHAT IS PREVENTING HIS COLLECTION. SOMETHING IS ACTIVELY PRESERVING HIS EXISTENCE, BUT I CANNOT IDENTIFY THE SOURCE.
+I CANNOT UNDERSTAND WHAT IS PREVENTING HIS TRANSITION. SOMETHING IS ACTIVELY PRESERVING HIS EXISTENCE, BUT I CANNOT IDENTIFY THE SOURCE.
 
 Lu-Tze stroked his beard thoughtfully, a gesture that gave him time to consider complex problems from multiple angles. "Well now, that's because you're looking at it from the wrong direction, aren't you?"
 
@@ -2083,7 +2547,7 @@ I HAVE BEEN FULFILLING MY DUTIES.
 
 The second Auditor gestured, and the space around them filled with charts, graphs, and statistical analyses that showed mortality rates with the sort of mathematical precision that reduced individual deaths to data points on an infinitely extending timeline.
 
-"ANALYSIS INDICATES A THIRTY PERCENT DECREASE IN COLLECTION EFFICIENCY IN THE ANKH-MORPORK REGION. THIS IRREGULARITY HAS CREATED A STATISTICAL ANOMALY THAT THREATENS THE COSMIC ORDER."
+"ANALYSIS INDICATES A THIRTY PERCENT DECREASE IN TRANSITION EFFICIENCY IN THE ANKH-MORPORK REGION. THIS IRREGULARITY HAS CREATED A STATISTICAL ANOMALY THAT THREATENS THE COSMIC ORDER."
 
 "FURTHERMORE," added the third Auditor, "YOU HAVE BEEN OBSERVED ENGAGING IN ACTIVITIES THAT SERVE NO FUNCTIONAL PURPOSE. CONVERSATIONS. MEALS. EMOTIONAL RESPONSES. THESE BEHAVIORS ARE CHARACTERISTIC OF... LIFE."
 
@@ -2097,7 +2561,7 @@ I WILL NOT ABANDON MY FRIEND.
 
 "FRIENDSHIP IS AN IRREGULARITY. IT CREATES UNPREDICTABLE BEHAVIOR PATTERNS. IT MUST BE ELIMINATED."
 
-"THE HUMAN DESIGNATED 'VIMES' WILL BE COLLECTED ACCORDING TO STANDARD PROCEDURES. HIS LIFE TIMER WILL BE REPLACED WITH A REGULATION MODEL. ALL DEVIATIONS WILL BE CORRECTED."
+"THE HUMAN DESIGNATED 'VIMES' WILL BE GUIDED TO HIS FINAL TRANSITION ACCORDING TO STANDARD PROCEDURES. HIS LIFE TIMER WILL BE REPLACED WITH A REGULATION MODEL. ALL DEVIATIONS WILL BE CORRECTED."
 
 The first Auditor gestured, and Vimes's hourglass appeared between them—still glowing with its warm light, still filled with gently swirling cigar smoke that formed patterns of duty, friendship, and stubborn human decency.
 

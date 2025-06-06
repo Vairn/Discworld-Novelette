@@ -101,15 +101,15 @@ I WOULD APPRECIATE THE ASSISTANCE, Death admitted. I FIND MYSELF... UNCERTAIN...
 
 "Don't worry about that," Vimes said, lighting a cigar. "I've been investigating impossible things for years. The trick is to treat them like regular crimes until they prove otherwise."
 
-It was, he reflected, exactly the sort of case that reminded him why he'd become a policeman in the first place. Even if the jurisdiction was getting a bit more complicated than usual.
+It was, he reflected, the kind of case that reminded him why he wore the badge: a mystery, a wrong to set right, and just enough strangeness to keep him sharp. Even if the boundaries of his job were getting stranger by the day.
 
 ---
 
 ### Chapter 2: The Pattern
 
-The fourth murder scene was proving to be just as mystifying as the first three, with the added complication that Death was now examining evidence with the sort of professional interest that suggested he was either learning new investigative techniques or developing concerning hobbies.
+The fourth murder scene was as baffling as the first three, with the added twist that Death was now examining evidence with a professional curiosity that suggested he was either learning new investigative techniques or developing worrying hobbies.
 
-Commander Sam Vimes stood over the body of Marcus Cripley, a private investigator who had specialized in finding things that important people preferred to stay lost. The sort of man who made his living from other people's secrets, which was honest work in its way, though it tended to create a remarkably diverse collection of individuals who might have strong opinions about your continued existence.
+Commander Sam Vimes stood over the body of Marcus Cripley, a private investigator who made his living from other people's secrets—honest work, in its way, though it tended to create a remarkably diverse collection of individuals who might have strong opinions about your continued existence.
 
 "Same killer," Vimes said, not needing confirmation but appreciating professional consensus. "Same technique, same efficiency, same complete lack of passion."
 
@@ -225,43 +225,19 @@ Cheery Littlebottom sat in the Watch House basement surrounded by the sort of sc
 
 The walls were lined with shelves containing evidence from hundreds of cases: bottled samples of suspicious substances, preserved fingerprints, weapons that had been catalogued and stored for future reference, and an impressive collection of what Cheery professionally referred to as "interesting stains." Gas lamps provided steady illumination, supplemented by the sort of specialized lighting equipment that allowed for detailed examination of evidence that preferred not to be examined in detail.
 
-Cheery was currently bent over a microscope, studying fibers taken from Sarah Palmley's shawl with the sort of focused attention that most people reserved for counting their money or reading their tax assessments. The fibers told a story, if you knew how to read them, and Cheery had spent years learning to interpret the microscopic evidence that criminals left behind without realizing it.
+Cheery looked up from her evidence with the sort of expression that suggested she'd found something both disturbing and illuminating.
 
-"Interesting," she murmured, making notes in the precise handwriting that had made her the Watch's most valuable forensic specialist. "Very interesting indeed."
+"Right," she said without preamble. "Our killer's been making mistakes. Expensive mistakes."
 
 The laboratory door opened and Captain Carrot descended the stairs, followed by Sergeant Angua, both of them carrying the sort of expressions that suggested their afternoon had been educational in ways they hadn't entirely expected.
 
-"Any luck with the wedding venues?" Cheery asked without looking up from her microscope.
+"Any luck with the wedding venues?" Cheery asked.
 
-"Well, yes and no," Carrot said, settling into one of the chairs that Cheery kept for visitors who needed to sit down when they heard her findings. "We found some interesting connections between the victims."
+"Our victims all had near-death experiences at the same locations," Carrot said. "And Marcus Cripley was investigating insurance fraud involving people who nearly died but recovered unexpectedly."
 
-"What sort of connections?"
+"The kind where people take out life insurance policies, then stage accidents," Angua added. "Except our victims weren't part of any fraud. They just survived when they shouldn't have."
 
-"They all had near-death experiences in the same locations. Sarah gave birth at St. Ungulant's Hospital. Thomas had his carriage accident on Treacle Mine Road. Margaret collapsed from consumption outside the Temple of Small Gods."
-
-Angua consulted her notes. "And Marcus Cripley was investigating insurance fraud cases involving people who'd had similar experiences - people who nearly died but recovered unexpectedly."
-
-"Insurance fraud?"
-
-"The kind where people take out life insurance policies, then stage accidents or illnesses. When they survive what should have been fatal, they collect on the policies and disappear."
-
-"And our victims?"
-
-"They weren't part of any fraud. They just got lucky. But someone's been tracking people who survive near-death experiences."
-
-Cheery finally looked up from her microscope. "Well, that explains quite a lot, actually."
-
-"How so?"
-
-"Because the fibers I'm looking at tell a very specific story about our killer." She gestured toward the microscope. "Take a look."
-
-Carrot peered through the eyepiece with the sort of careful attention that had made him the Watch's most thorough investigator. "They look... unusual."
-
-"They're silk. Very expensive silk, dyed with a particular type of mordant that's only used by one textile manufacturer in the city. But more importantly, they're contaminated with something unusual."
-
-"Unusual how?"
-
-"Chemicals I can't quite identify. Something that suggests our killer works with... preservation processes. Not necessarily bodies, but something that requires keeping things from decay."
+"That explains the silk fibers," Cheery said, producing a vial. "Expensive silk, contaminated with preservation chemicals and something else—insurance documentation ink. Our killer works in the insurance industry and has access to professional preservation equipment."
 
 Angua's nose twitched. "That would explain the strange scent I detected at the crime scene. Something chemical, but not quite human."
 
@@ -1140,13 +1116,13 @@ They crossed the square with the sort of measured pace that suggested serious of
 
 Vimes knocked on the door with the sort of authoritative rap that suggested the Watch was here on business and expected to be taken seriously.
 
-The door opened to reveal a person of utterly forgettable appearance—average height, bland features, wearing clothes that suggested middle-class respectability without drawing attention to themselves. They might have been anyone, which was probably the point.
+The door opened to reveal a person whose most striking feature was how determinedly unremarkable they appeared—average height, bland features, wearing clothes that suggested middle-class respectability without drawing attention to themselves. But Vimes, with three decades of reading people, noticed the details: hands that were too clean, as if scrubbed with something stronger than soap. Eyes that moved constantly, cataloguing exits and potential weapons. The sort of stillness that came from someone who had learned to suppress every natural human gesture that might betray personality.
 
-"Yes?" The voice was carefully modulated, neither friendly nor hostile, carrying the sort of professional neutrality that insurance assessors learned to employ when dealing with potentially fraudulent claims.
+"Yes?" The voice was carefully modulated, neither friendly nor hostile, but there was something underneath—a faint accent that suggested education, breeding even. This wasn't someone who had fallen into murder. This was someone who had chosen it as a career path.
 
-"A. Mortimer?" Vimes showed his badge. "Commander Sam Vimes, Ankh-Morpork City Watch. We'd like to ask you some questions about your work with Mutual Assurance and Benevolent Protection."
+"A. Mortimer?" Vimes showed his badge, noting how Mortimer's gaze fixed on it with the intensity of someone calculating threat levels. "Commander Sam Vimes, Ankh-Morpork City Watch. We'd like to ask you some questions about your work with Mutual Assurance and Benevolent Protection."
 
-"Ah." Mortimer's expression didn't change, but something in their posture suggested they had been expecting this visit. "I suppose you'd better come in."
+"Ah." Mortimer's expression didn't change, but their hands moved slightly—not quite reaching for anything, but positioning themselves. Someone with combat training, Vimes realized. "I wondered when you'd arrive. I've been rather expecting this conversation. I suppose you'd better come in."
 
 The interior of the house was exactly what Vimes had expected from someone who treated murder as a technical problem requiring specialized equipment. The front room was furnished with the sort of careful neutrality that suggested its occupant spent no more time here than necessary. Clean, organized, and entirely without personality.
 
@@ -1162,15 +1138,17 @@ The interior of the house was exactly what Vimes had expected from someone who t
 
 Mortimer considered this information with the sort of calm attention that most people reserved for weather reports or tax assessments.
 
-"I see you've been thorough," they said finally. "How much do you know about cosmic scheduling irregularities?"
+"I see you've been thorough," they said finally, and for the first time, something like genuine emotion crept into their voice—not fear, but a kind of professional appreciation. "How much do you know about cosmic scheduling irregularities?"
 
 "Enough to know that some people consider mercy to be an error requiring correction," Vimes said. "Care to explain your perspective on the matter?"
 
-"Commander, you've investigated murders before. You understand that death serves a purpose—it provides meaning to life, structure to existence, consequences for actions. When deaths are postponed for... emotional reasons... it disrupts the cosmic order."
+Mortimer was quiet for a moment, then moved to a cabinet and poured themselves a glass of what appeared to be expensive brandy. They didn't offer any to their guests—a telling detail about someone who lived entirely for themselves.
+
+"Commander, my family has served the cosmic order for seven generations. Insurance, actuarial science, statistical analysis—we've always been in the business of calculating risk and managing uncertainty." Mortimer took a sip. "When I was approached by the Auditors, it wasn't just a job offer. It was a calling. A chance to serve something greater than municipal concerns or individual sentiment."
 
 "So you decided to restore that order?"
 
-"I was approached by entities who value procedural correctness. They explained that certain... administrative irregularities... were threatening the stability of the universal system. They required someone with access to mortality data and the technical skills necessary to correct these errors."
+"I believed I was preventing chaos. Each postponed death creates ripple effects—economic disruption, emotional trauma for families who have to watch loved ones suffer, resources wasted on medical care that only delays the inevitable." Mortimer's voice carried the conviction of someone who had convinced themselves their work was noble. "The Auditors showed me the mathematics. Sarah Palmley's baby would have been better off in an orphanage than growing up in poverty. Thomas Keel's accident would have saved his family years of caring for someone with chronic injuries. I thought I was being merciful."
 
 "You mean someone who could murder people and make it look like natural causes," Detritus said, his voice carrying the sort of blunt honesty that came from someone who had never seen any point in polite euphemisms.
 
@@ -1188,13 +1166,17 @@ Mortimer's composure flickered for the first time. "They call themselves... the 
 
 "Right," Vimes said, his voice carrying a dangerous edge. "And what happens when they decide you're an irregularity that needs correcting?"
 
-Mortimer went very still. "I... that hadn't occurred to me."
+For the first time, genuine fear flickered across Mortimer's face. They set down the brandy glass with hands that weren't quite steady. "I... that hadn't occurred to me. But I'm not an irregularity. I'm their solution."
 
-"Sarah Palmley," he said. "New mother. Strangled with her own shawl. Quality control?"
+"Are you? Because from where I sit, you look like someone who's been skimming from the cosmic order. Fifty thousand dollars in fraudulent insurance claims, according to our investigation. I wonder what the Auditors think about employees who profit from their work?"
+
+Mortimer's carefully maintained composure cracked entirely. "How did you... that was completely separate from the quality control program!"
+
+"Was it? Sarah Palmley," Vimes continued relentlessly. "New mother. Strangled with her own shawl. But not before you collected on the life insurance policy you'd taken out on her six months ago, betting she wouldn't survive childbirth."
 
 "She was scheduled to die in childbirth. Her survival created statistical anomalies that required correction."
 
-"Thomas Keel. On his way to his nephew's wedding. Quality control?"
+"Thomas Keel. On his way to his nephew's wedding. How much did you collect when he survived that carriage accident?"
 
 "The accident was meant to be fatal. His survival disrupted the cosmic schedule."
 
@@ -1814,15 +1796,15 @@ The main office had been transformed into something that looked like a cross bet
 
 "Right then," Vimes said, addressing his assembled officers. "We're going to prove that the Auditors' quality control program is causing more problems than it solves. Which means we need to document every irregularity their murders have created."
 
-Cheery had prepared a detailed analysis of the chemical evidence. "The preservation compounds our killer has been using don't just prevent decay—they actively disrupt natural processes. Every murder site shows elevated levels of temporal distortion, reality fluctuation, and what I can only describe as 'cosmic scarring.'"
+Cheery had prepared a detailed analysis that cut straight to the heart of the matter. "The preservation compounds contain something that shouldn't exist—temporal stabilizers mixed with essence of insurance fraud. Our killer isn't just committing murder, they're profiting from it through an elaborate scheme involving cosmic scheduling and actuarial manipulation."
 
-"Cosmic scarring?" Carrot asked.
+"How so?" Carrot asked.
 
-"Damage to the fundamental structure of reality. Small-scale, but cumulative. If this continues, we could see significant disruption to natural law in the affected areas."
+"They've been taking out life insurance policies on people they knew were scheduled to die, then collecting when Death postponed those deaths, then murdering the victims and collecting again. Double compensation for cosmic irregularities."
 
-"So their solution is making the universe less stable?"
+"So they're profiting from cosmic compassion?"
 
-"Considerably less stable. They're treating symptoms while making the underlying condition worse."
+"Exactly. And the Auditors have been paying them additional fees for 'quality control services.' It's cosmic fraud on an interdimensional scale."
 
 Sergeant Angua consulted her tracking notes. "The scent analysis confirms that our killer has been active for months, possibly years. But the chemical signature has been getting stronger recently, which suggests either escalation or desperation."
 
@@ -1830,13 +1812,13 @@ Sergeant Angua consulted her tracking notes. "The scent analysis confirms that o
 
 "They're using more powerful preservation compounds for each murder. Either the irregularities are getting harder to eliminate, or the Auditors are getting impatient with the pace of corrections."
 
-Nobby had prepared what he proudly called "a comprehensive analysis of bureaucratic irregularities," which sounded impressive until you realized it was Nobby who had prepared it. Still, his findings were surprisingly thorough.
+Nobby had prepared what he proudly called "a comprehensive analysis of bureaucratic irregularities and insurance fraud," which connected the cosmic murders to a very earthly motive.
 
-"The fake company paperwork shows multiple violations of municipal commercial law," he reported. "Unlicensed operation, fraudulent documentation, and failure to pay proper taxes. If the Universal Life Management Corporation were real, they'd owe the city approximately three thousand dollars in back fees."
+"The fake company paperwork isn't just about hiding murders," he reported. "It's about money. Lots of money. Our killer has been filing insurance claims through seventeen different companies, collecting death benefits on people they knew would survive their scheduled deaths, then killing them and collecting survivor benefits too."
 
-"And since they're not real?"
+"How much money are we talking about?"
 
-"Someone's been conducting illegal commercial activities under false pretenses. Which is fraud, impersonation of a legitimate business entity, and conspiracy to commit murder."
+"Over fifty thousand dollars so far. And that's just what I can trace. The Universal Life Management Corporation was a front for the biggest insurance fraud scheme in the city's history."
 
 Sergeant Colon had cross-referenced the murder victims with city records and discovered something disturbing. "Commander, the people who were killed weren't just random survivors. They were all... productive members of society. Sarah was a skilled seamstress, Thomas was a reliable carriage driver, Margaret did charity work, Marcus was solving insurance fraud cases."
 
@@ -2804,7 +2786,5 @@ All things considered, he could live with that responsibility. Possibly forever.
 ---
 
 [^sybil]: "Practical Metaphysics" for the daughters of the Ankh-Morpork aristocracy was less about debating the nature of reality and more about learning which supernatural entities one could safely invite to tea, the correct way to address a vampire with a gambling problem, and the proper fork to use when dining with a lich. It was considered a vital social skill.
-[^nobby]: Corporal Cecil Wormsborough St. John "Nobby" Nobbs was, technically, human. He carried a certificate signed by the Patrician to this effect, which he was required to produce on occasions when his species was called into question. Which was often. The certificate did not, however, specify which bits of him were human.
-[^form27b]: Form 27-B was a masterpiece of bureaucratic design, created by a civil servant who had, in a moment of transcendent genius, realized that the purpose of government paperwork was not to facilitate action but to prevent it. He had later been promoted to a position where he could do no further damage, which involved cataloging the different types of silence in the city's libraries.
 [^oblong]: The Patrician's office was known as the Oblong Office. Its peculiar dimensions, which seemed to defy the known laws of architecture, were a constant source of debate among the city's intelligentsia. Some claimed it was a subtle application of L-space, while others suggested the architect had simply been very bad at math. The truth, as with most things concerning Lord Vetinari, was probably more complicated and considerably more unsettling. The effect, however, was undisputed: it was impossible to feel comfortable there, which was precisely the point.
 [^auditors]: The Auditors of Reality hated life, not because it was evil, but because it was messy. Life had a terrible habit of being unpredictable, of creating interesting and unique things that didn't fit neatly into columns on a ledger. They dreamed of a universe that was perfectly ordered, silent, and gray. A universe where nothing ever happened, twice. Their one great weakness was that they had to obey the rules. All of them. Especially the boring ones.

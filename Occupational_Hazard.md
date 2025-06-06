@@ -25,6 +25,10 @@ The killer checked the time. The window for the next correction was opening. Sub
 
 It was just a job. The most important job in existence, perhaps, but just a job all the same.
 
+In the spaces between realities, entities that valued order above all else made careful notes in ledgers that would never be audited. The irregularities were being corrected, one by one. The system was being restored to its proper parameters.
+
+Soon, the beautiful silence of perfect order would return.
+
 ---
 
 ### Chapter 1: The Uncomfortable Truth
@@ -239,7 +243,57 @@ It was, she thought, proper police work at its finest.
 
 ---
 
-### Chapter 5: The Breakfast Incident
+### Chapter 5: Quality Control
+
+The methodical review of completed assignments was a necessity that distinguished professional work from amateur enthusiasm. Each case file was examined with the sort of careful attention that might have impressed the Guild of Accountants, if members of that organization had been capable of contemplating activities more hazardous than tax assessment.
+
+The workspace was precise, organized according to principles that valued efficiency above comfort. Maps of the city covered one wall, marked with pins of various colors indicating locations of interest, timing considerations, and potential complications. A second wall displayed what might have been called a organizational chart, though the relationships it depicted were unlikely to be found in any conventional business manual.
+
+The killer sat at a desk that might have belonged to any middle-level bureaucrat—solid wood, clean lines, everything in its proper place. The only unusual feature was the locked cabinet that contained specialized equipment arranged with the sort of care typically reserved for surgical instruments or particularly valuable wines.
+
+*Assignment Review: S. Palmley*
+*Method: Strangulation using available materials*
+*Complications: Minimal. Subject was alone, infant posed no operational difficulties*
+*Efficiency Rating: Satisfactory*
+*Time to Completion: 7 minutes*
+*Cleanup Requirements: Standard protocols*
+
+The killer made notes in a precise hand, documenting details that would be of interest to certain parties who valued thoroughness in their service providers. The work was evaluated not for emotional satisfaction—emotion being a variable that introduced unacceptable unpredictability—but for technical excellence and adherence to specifications.
+
+*Assignment Review: T. Keel*
+*Method: Blade work, precision placement*
+*Complications: Subject demonstrated unexpected awareness, requiring adaptation*
+*Efficiency Rating: Adequate*
+*Time to Completion: 12 minutes*
+*Cleanup Requirements: Enhanced protocols due to location factors*
+
+Each case presented its own technical challenges. The art lay in adapting standardized procedures to specific circumstances while maintaining the sort of professional standards that their employers had come to expect. It was skilled work, requiring not just technical competence but an understanding of larger operational objectives.
+
+The next assignment required consideration. Subject Designation: Cripley, M. Private investigator, recently involved in insurance fraud investigations. The irony was not lost on the killer—someone who made their living from discovering other people's secrets was about to discover that some secrets were more dangerous than others.
+
+The preliminary surveillance had been completed. Cripley maintained regular hours, lived alone, and had the sort of casual approach to personal security that suggested he had never seriously considered that someone might want him dead. This was common among people who dealt in information rather than violence. They understood blackmail and bribery, but they rarely prepared for more direct solutions to the problems they created.
+
+A soft chime indicated an incoming communication. The killer activated the mechanism with the sort of practiced efficiency that suggested regular use.
+
+*New parameters confirmed. Continue current operational timeline. Additional assignments to follow pending completion of current objectives. Maintain discretion protocols. Efficiency levels satisfactory but improvement expected.*
+
+The message self-destructed with a small puff of smoke that smelled faintly of sulfur and bureaucracy. The killer made a note in the margin of their planning documents: *Employer expectations elevated. Adjust quality standards accordingly.*
+
+This was the sort of work that required dedication to craft. Each assignment was a problem to be solved, a technical challenge that demanded both precision and creativity. The goal was not just completion but completion to a standard that would satisfy entities whose standards were... elevated.
+
+The killer stood and moved to the equipment cabinet, selecting items appropriate for the next assignment. A small blade—sharp enough to be effective, common enough to be untraceable. A vial of substance that would assist with cleanup procedures. A length of cord that could serve multiple purposes, depending on circumstances.
+
+The work was, in its way, a form of art. The art of correction. The restoration of proper order in a universe that seemed increasingly determined to generate irregularities. Each assignment brought the world closer to the beautiful simplicity that their employers valued above all else.
+
+It was honest work. Important work. The sort of work that made the universe function according to its proper parameters.
+
+Subject Designation: Cripley, M. scheduled for correction in approximately six hours.
+
+The killer returned to their desk and began finalizing the operational plan.
+
+---
+
+### Chapter 6: The Breakfast Incident
 
 Commander Vimes sat in Harga's House of Ribs, which occupied a special place in Ankh-Morpork's culinary ecosystem somewhere between "restaurant" and "biological warfare facility." The establishment had earned its reputation through a combination of aggressive pricing, mysterious ingredients, and the sort of robust approach to food safety that assumed anyone weak enough to be poisoned by breakfast probably wasn't cut out for life in the big city anyway.
 
@@ -311,7 +365,7 @@ He headed toward the Watch House, unconsciously falling into the measured pace t
 
 ---
 
-### Chapter 6: The Patrol
+### Chapter 7: The Patrol
 
 Vimes was on his rounds through the Shades, which was Ankh-Morpork's most honest neighborhood in the sense that everyone there was a criminal and didn't pretend otherwise. It was refreshing, in a way that could only be appreciated by someone who spent most of his working life dealing with people who stole money and called it taxation, or who murdered people and called it politics.
 
@@ -379,7 +433,7 @@ UNTIL TOMORROW, COMMANDER.
 
 ---
 
-### Chapter 7: The Visitor
+### Chapter 8: The Visitor
 
 The appointment was kept precisely at midnight, as all the best appointments were. Midnight had the advantage of being the sort of time when sensible people were asleep, which left the night free for those whose business required privacy, discretion, and the absence of witnesses.
 
@@ -451,7 +505,7 @@ Outside, the city of Ankh-Morpork continued its nightly business, unaware that i
 
 ---
 
-### Chapter 8: The Domestic Consultation
+### Chapter 9: The Domestic Consultation
 
 Vimes arrived home to find the front door of Ramkin Manor standing open in a way that suggested either burglary or Lady Sybil's complete confidence in her ability to handle whatever might wander in. Given that this was Lady Sybil, and that she had once subdued an entire dragon with nothing but stern words and proper etiquette, Vimes suspected the latter.
 
@@ -531,7 +585,7 @@ Vimes just nodded, making a mental note to have a word with Death about appropri
 
 ---
 
-### Chapter 9: The Wedding Committee  
+### Chapter 10: The Wedding Committee  
 
 Vimes arrived at the Watch House to find the main office transformed into what appeared to be a strategic planning center for an operation of considerable complexity. This was notable because the Watch House's main office was normally the sort of place where strategic planning involved deciding whether to arrest someone today or wait until tomorrow when they might commit a crime that was actually worth the paperwork. A maintenance worker was sweeping near the entrance, moving with the sort of methodical precision that suggested either exceptional professional pride or possibly a deep philosophical approach to janitorial work.
 
@@ -633,7 +687,7 @@ It was, Vimes reflected, either the most romantic thing he'd ever witnessed, or 
 
 ---
 
-### Chapter 10: The Preservative Trail
+### Chapter 11: The Preservative Trail
 
 The morning after Cheery's revelations about the mysterious preservative chemicals, Vimes found himself standing outside Moribund's, one of Ankh-Morpork's more specialized shops. The establishment occupied a narrow building wedged between a respectable bakery and a shop that claimed to sell "imported curiosities" but probably dealt in items that customs officials preferred not to examine too closely.
 
@@ -689,7 +743,7 @@ As they approached Morbius and Company—a respectable-looking establishment wit
 
 ---
 
-### Chapter 11: The Scent and the Scheme
+### Chapter 12: The Scent and the Scheme
 
 Sergeant Angua was having the sort of morning that reminded her why enhanced senses could be both a blessing and a curse. She had spent the better part of an hour following a scent trail that led from Marcus Cripley's murder scene through half of Ankh-Morpork's more respectable neighborhoods, and what she had discovered was both illuminating and deeply troubling.
 
@@ -763,93 +817,66 @@ She just hoped he was on their side.
 
 ---
 
-### Chapter 12: A Quiet Contemplation
+### Chapter 13: Administrative Complications
 
-Death materialized in the garden of Ramkin Manor during the peaceful hour between afternoon tea and evening preparations, when the light had mellowed into the sort of golden quality that made even the most ordinary objects appear touched with significance. The garden represented Lady Sybil's approach to horticulture—organized but not rigid, beautiful but also practical, with the sort of confident abundance that came from someone who understood that the best gardens were collaborations between human intention and natural exuberance.
+The communication arrived with its usual precision—midnight exactly, delivered through channels that left no trace of origin or destination. The killer opened the encoded message with practiced efficiency, though the contents proved more... challenging... than usual.
 
-He had come here to think, which was an activity that seemed to require increasingly more of his attention lately. The garden provided the sort of environment that encouraged reflection—winding paths that invited contemplation, secluded benches positioned to offer views of both cultivated beauty and the wilder sections where Lady Sybil allowed nature to express its own opinions about landscape design.
+*Subject surveillance protocols indicate elevated Watch attention. Multiple investigations proceeding simultaneously. Recommend operational review and possible procedural modifications. Maintain current assignments but prepare contingency measures.*
 
-Death settled on a stone bench beneath an ancient oak tree whose branches provided both shade and a sense of permanence that appealed to someone whose existence was measured in eons rather than decades. The bench had been positioned with careful attention to the view it provided—across the formal gardens toward the more naturalistic areas where wildflowers grew in carefully managed profusion, and beyond that to the city itself, visible in the distance as a tapestry of rooftops, spires, and the occasional plume of smoke that suggested someone was either cooking dinner or conducting an interesting experiment.
+The killer made notes in the margin of their operational log. The Watch was becoming inconveniently thorough in their investigation. This was problematic but not unprecedented—law enforcement occasionally demonstrated unexpected competence, requiring adaptation of standard procedures.
 
-From this vantage point, the city appeared almost peaceful, its usual chaos reduced to a distant murmur that suggested activity without demanding immediate attention. The afternoon light transformed Ankh-Morpork into something that looked almost romantic, which was probably an optical illusion but a pleasant one nonetheless.
+More concerning was the message's tone. Their employers valued efficiency and discretion above all else. The fact that contingency measures were being discussed suggested that the operation was attracting the sort of attention that cosmic entities found... unwelcome.
 
-Death had been contemplating the philosophical implications of friendship, duty, and the increasingly complex relationship between cosmic order and individual conscience when Willikins appeared on the garden path with the sort of quiet efficiency that suggested he had been observing Death's arrival and had decided that the appropriate response was to provide refreshments.
+The killer reviewed their case files methodically, looking for potential vulnerabilities in their operational security.
 
-Willikins approached with a tea service arranged on a silver tray—proper china, properly warmed teapot, and an assortment of what appeared to be Lady Sybil's experimental biscuits. The butler moved with the sort of dignified grace that came from years of understanding that truly excellent service anticipated needs before they were expressed and solved problems before they became inconvenient.
+*Subject: S. Palmley - No complications. Standard cleanup protocols successful.*
+*Subject: T. Keel - Minor witness concerns, resolved through secondary interventions.*
+*Subject: M. Dowdy - No operational difficulties.*
+*Subject: M. Cripley - Investigation target eliminated before complications could develop.*
 
-"Good afternoon, sir," Willikins said, settling the tea service on a small table with the sort of precise movements that suggested years of practice in serving refreshments under a variety of unusual circumstances. "Lady Sybil thought you might appreciate some tea. She's taken Young Sam to visit the dragon sanctuary, but she mentioned that you might be by this afternoon."
+Four successful corrections, each executed according to specifications. The work had been professional, efficient, and appropriately discrete. So why were their employers expressing concern about Watch attention?
 
-I WAS NOT EXPECTED.
+The answer, upon reflection, was probably methodological. The killer had chosen varied techniques for each assignment—strangulation, blade work, poison, blunt trauma—to avoid creating obvious patterns. But perhaps the variety itself had become a pattern. Perhaps the Watch's investigative capabilities were more sophisticated than anticipated.
 
-"In this household, sir, we've learned to expect the unexpected. It makes life considerably more interesting, and it means we're always prepared for company, regardless of... ontological status."
+A second chime indicated another communication. The killer activated the device with mounting concern.
 
-Willikins poured tea with the sort of practiced skill that suggested he had served refreshments to everything from visiting dignitaries to supernatural entities and had developed a comprehensive understanding of the etiquette involved in each situation. The tea was perfectly brewed, the china was spotless, and the overall presentation suggested that Death was being treated as an honored guest rather than a potentially threatening force of nature.
+*Additional intelligence suggests Watch investigation has identified connection between subjects. Recommend immediate implementation of Protocol Seven: elimination of investigative personnel. Authorization granted for expanded operational parameters.*
 
-THANK YOU, WILLIKINS. I FIND TEA... SOOTHING.
+The killer paused in their note-taking. Protocol Seven was... extensive. It involved targets beyond the original irregularities—anyone who posed a threat to operational security. The Watch personnel, their families, potentially their contacts and sources.
 
-"Most people do, sir. It's one of civilization's more successful innovations." Willikins settled into the sort of comfortable silence that suggested he was available for conversation if required, but equally prepared to allow Death to contemplate in peace.
+This represented a significant escalation from individual corrections to systematic elimination of an entire investigative apparatus. The work would be challenging, certainly, but more importantly, it suggested that their employers were becoming concerned about exposure.
 
-Death sipped his tea—which was excellent—and found himself considering how much his perspective had changed since beginning his friendship with Commander Vimes. For centuries, he had understood his role in simple terms: life ended, death began, and his function was to facilitate the transition with efficiency and impartiality. The cosmic order required death to be inevitable, uniform, and entirely without personal considerations.
+The killer had worked for these entities for several years, handling various administrative corrections with consistent professionalism. The arrangement had been mutually beneficial—the killer received compensation and resources, while their employers maintained cosmic order according to their preferred parameters. But Protocol Seven suggested that the relationship was entering a more... complicated... phase.
 
-But spending time among mortals had introduced complications that the cosmic bureaucracy had never anticipated. He had begun to see individual lives not as entries in a ledger, but as stories with meaning, value, and significance that extended beyond their scheduled termination dates. The realization that some stories were worth preserving had led to... administrative irregularities... that were now attracting unwanted attention from entities who valued procedural correctness above individual circumstances.
+The killer stood and moved to the specialized cabinet where more extensive equipment was stored. Protocol Seven would require items beyond the standard precision instruments—explosive devices, wide-area toxins, systems designed for multiple simultaneous eliminations rather than individual corrections.
 
-"Begging your pardon, sir," Willikins said quietly, "but you have the expression of someone wrestling with a difficult problem."
+As they made preparations, the killer reflected on the philosophical implications of their work. The original assignments had been clear: correct scheduling irregularities, restore proper order, maintain cosmic efficiency. These were noble goals, achieved through precise application of professional expertise.
 
-I HAVE BEEN CONSIDERING THE NATURE OF FRIENDSHIP.
+But eliminating Watch personnel for investigating murders... that felt less like cosmic correction and more like simple crime prevention. The distinction was subtle but important. The killer preferred to think of their work as serving higher purposes rather than merely covering up evidence of previous activities.
 
-"Ah. Yes, that can be quite complex, especially when one's professional duties conflict with one's personal inclinations."
+Another communication arrived, this one marked with the sort of urgent designations that suggested immediate implementation was expected.
 
-Death looked at the butler with interest. YOU SPEAK FROM EXPERIENCE?
+*Time parameters for Protocol Seven: 48 hours maximum. Begin with primary investigative personnel, expand to secondary contacts as necessary. Utilize maximum efficiency protocols. Discretion remains paramount but secondary to completion.*
 
-"In a manner of speaking, sir. I've spent considerable time balancing professional obligations with personal loyalty. Lady Sybil and the Commander have occasionally required... protection... that fell outside normal domestic service protocols."
+Forty-eight hours to eliminate an entire police investigation. The killer began calculating resource requirements, timing considerations, and logistical challenges. It would require everything in their arsenal plus several items that would need to be acquired through specialized channels.
 
-PROTECTION?
+More troubling was the implication that their employers were willing to sacrifice discretion for speed. This suggested either desperation or external pressure that made the normal procedural considerations irrelevant.
 
-"There are individuals in this city who occasionally develop unfortunate opinions about the Watch's effectiveness. In my previous career, I developed certain skills that proved... transferable... to domestic service."
+The killer sealed the communication devices and began methodical preparation for what would either be the culmination of their professional career or its unfortunate termination. Protocol Seven had never been fully implemented before—the theoretical frameworks existed, but practical application remained untested.
 
-I SEE. AND HOW DO YOU BALANCE PROFESSIONAL DUTY WITH PERSONAL ATTACHMENT?
+Still, the work was what the work was. Their employers valued results over philosophical concerns, and the killer had built their reputation on delivering exactly what was requested, when it was requested, according to specifications.
 
-Willikins considered this question with the sort of thoughtful attention that suggested he had given it considerable thought over the years.
+They returned to their desk and began finalizing plans for the elimination of Commander Vimes, his immediate subordinates, and anyone else who posed a threat to the beautiful order that their employers sought to maintain.
 
-"I find, sir, that true professional excellence requires understanding what is truly important. Protecting the people you care about isn't a violation of duty—it's the highest expression of it."
+It was, after all, just another job. Simply larger in scope than previous assignments.
 
-Death found this perspective illuminating. HE HAD SPENT CENTURIES BELIEVING THAT IMPARTIALITY WAS ESSENTIAL TO PROPER FUNCTIONING, BUT PERHAPS THE OPPOSITE WAS TRUE. PERHAPS CARING ABOUT THE OUTCOME WAS WHAT MADE DUTY MEANINGFUL.
+The killer checked their pocket watch. Forty-seven hours and thirty-three minutes until Protocol Seven implementation was complete.
 
-The sound of approaching hooves interrupted his contemplation, and Binky trotted around the corner of the garden path with the sort of dignified bearing that suggested he had been exploring the grounds and had decided to investigate the source of the familiar scent. The pale horse approached with obvious pleasure, and Death felt a warmth that he was beginning to recognize as genuine affection.
-
-BINKY. I HAVE MISSED YOU.
-
-Binky whickered softly and nuzzled Death's robes with the sort of gentle insistence that suggested he expected attention and possibly treats. Death stroked the horse's neck, noting how the simple contact with a creature who understood him completely provided a sense of peace that he had been missing during his recent cosmic complications.
-
-"Handsome animal," Willikins observed. "Very well-trained. Lady Sybil mentioned that he seems quite intelligent."
-
-BINKY IS... EXCEPTIONAL. HE UNDERSTANDS THE NATURE OF OUR WORK WITHOUT BEING TROUBLED BY ITS IMPLICATIONS.
-
-"Animals often have a clearer understanding of essential matters than humans do. They don't complicate things with excessive philosophy."
-
-As the afternoon mellowed toward evening, Death found himself considering how this peaceful domestic scene represented everything that his cosmic supervisors found problematic about his recent behavior. He was developing attachments, forming relationships, caring about individual outcomes in ways that made efficient scheduling impossible.
-
-But he was also discovering that existence had dimensions that centuries of professional duty had never revealed. The simple pleasure of sharing tea with a friend, the comfort of a familiar animal's companionship, the satisfaction of protecting something precious from forces that would destroy it—these experiences had shown him that efficiency was not the highest virtue, and that some irregularities were worth preserving.
-
-As he prepared to leave, Death reflected that Lady Sybil's garden had provided exactly what he needed—a place to think clearly about complicated questions, and the realization that some problems were worth solving even if they couldn't be resolved according to standard procedures.
-
-THANK YOU, WILLIKINS. FOR THE TEA, AND FOR THE CONVERSATION.
-
-"Always a pleasure, sir. You're welcome here anytime. Lady Sybil quite enjoys having interesting guests."
-
-Death mounted Binky and prepared to return to his duties, which now included not only collecting the scheduled but also protecting the unscheduled from entities who considered mercy to be a cosmic error requiring correction.
-
-It was, he reflected, considerably more complicated than his original job description, but infinitely more meaningful.
-
-As he rode away from Ramkin Manor, Death felt something he had never experienced before—a sense of purpose that extended beyond mere duty, and the determination to preserve what mattered regardless of bureaucratic convenience.
-
-Some things, he had learned, were worth fighting for.
-
-Even if you were supposed to be impartial.
+Time to begin.
 
 ---
 
-### Chapter 13: The Explanation
+### Chapter 14: The Explanation
 
 Vimes was working late in his office, surrounded by case files and trying to piece together the connections between the murders and the wedding venues. The Watch House had settled into its usual nighttime quiet, and the gas lamps cast long shadows across the accumulated evidence of his investigation.
 
@@ -1027,7 +1054,7 @@ Number 15 Sator Square was the sort of building that apologized for existing. No
 
 The building stood three stories tall, with the sort of narrow windows that suggested either a desire for privacy or a reluctance to pay window tax. The front door was painted a color that might once have been green but had faded to something that could charitably be called "municipal beige." A small brass nameplate beside the door read "A. Mortimer," which was either the most ironic name possible for someone in the death business or exactly the sort of name that cosmic entities with limited imagination might choose for their earthly representative.
 
-Vimes stood across the square with Captain Carrot, Sergeant Angua, and Constable Cheery, studying the building with the sort of professional attention that suggested they were planning something considerably more complex than a social call. The morning light cast long shadows across the square, and the general atmosphere suggested that whatever happened next would probably require paperwork.
+Vimes stood across the square with Captain Carrot, Sergeant Angua, and Sergeant Detritus, studying the building with the sort of professional attention that suggested they were planning something considerably more complex than a social call. The morning light cast long shadows across the square, and the general atmosphere suggested that whatever happened next would probably require paperwork.
 
 "Right then," Vimes said, checking his notebook. "A. Mortimer, claims assessor for Mutual Assurance and Benevolent Protection, probable collector of preserved specimens, suspected of killing people for not dying on schedule. Anyone have any better ideas about how to approach this than knocking on the door and asking politely about their hobbies?"
 
@@ -1035,13 +1062,13 @@ Vimes stood across the square with Captain Carrot, Sergeant Angua, and Constable
 
 "We could surround the building," Angua added. "Though if they have a collection of preserved specimens, we might want to be prepared for... unpleasant discoveries."
 
-"We could just arrest them," Cheery said practically. "We have enough evidence to charge them with murder, insurance fraud, and probably several violations of municipal health ordinances."
+"We could just arrest them," Detritus said, in the tone of someone who considered direct action to be the most efficient solution to most problems. "Dat much easier dan talking."
 
 Vimes considered these options while studying the building. The windows were clean but curtained, the small front garden was maintained but not creative, and the overall impression was of someone who preferred not to attract attention to themselves or their activities.
 
 "No," he said finally. "We're going to do this properly. Official visit, formal questioning, everything according to regulations. If A. Mortimer wants to explain why they've been murdering people for cosmic schedule violations, they'll have the opportunity to do so in an official capacity."
 
-They crossed the square with the sort of measured pace that suggested serious official business was taking place. Carrot had prepared a comprehensive list of questions, Angua was tracking scents that told stories about the building's inhabitants, and Cheery carried evidence bags in case they discovered anything that needed to be preserved for later analysis.
+They crossed the square with the sort of measured pace that suggested serious official business was taking place. Carrot had prepared a comprehensive list of questions, Angua was tracking scents that told stories about the building's inhabitants, and Detritus carried his crossbow with the sort of casual confidence that suggested he was prepared for whatever they might encounter.
 
 Vimes knocked on the door with the sort of authoritative rap that suggested the Watch was here on business and expected to be taken seriously.
 
@@ -1077,7 +1104,7 @@ Mortimer considered this information with the sort of calm attention that most p
 
 "I was approached by entities who value procedural correctness. They explained that certain... administrative irregularities... were threatening the stability of the universal system. They required someone with access to mortality data and the technical skills necessary to correct these errors."
 
-"You mean someone who could murder people and make it look like natural causes," Cheery said bluntly.
+"You mean someone who could murder people and make it look like natural causes," Detritus said, his voice carrying the sort of blunt honesty that came from someone who had never seen any point in polite euphemisms.
 
 "I prefer to think of it as quality control. The universe operates according to specific parameters. When those parameters are violated, adjustments must be made."
 
@@ -1104,6 +1131,10 @@ Mortimer went very still. "I... that hadn't occurred to me."
 "The accident was meant to be fatal. His survival disrupted the cosmic schedule."
 
 "Quality control," Vimes repeated, his voice carrying the sort of dangerous calm that suggested someone was about to have a very bad day. "Right then, A. Mortimer. You're under arrest for the murders of Sarah Palmley, Thomas Keel, Margaret Dowdy, and Marcus Cripley. And for cosmic conspiracy to commit murder on behalf of interdimensional bureaucrats."
+
+Detritus stepped forward, looming over Mortimer with the sort of presence that suggested resistance would be both futile and inadvisable. "Dat means you come wit us now," he explained helpfully.
+
+Mortimer looked up at the seven-foot troll and appeared to reach the conclusion that cooperation was the wisest course of action.
 
 As Carrot produced the handcuffs and began reciting the formal charges, Vimes reflected that some cases were simpler than they initially appeared. Sometimes evil really was just bureaucracy taken to its logical conclusion—the reduction of human lives to data points in someone else's filing system.
 
@@ -1529,7 +1560,21 @@ INTO WHO OR WHAT HAS THE POWER TO PREVENT DEATH ITSELF. Death's voice carried th
 
 The assassin bowed politely to both of them. "The Guild will be suspending all contracts related to Commander Vimes pending... resolution of these unusual circumstances. This appears to be a matter for cosmic authorities rather than professional services."
 
-They faded back into the shadows, leaving Vimes alone with Death and a growing sense that his life was about to become considerably more complicated than municipal policing usually required.
+They faded back into the shadows just as heavy footsteps announced the arrival of Sergeant Detritus, who rounded the corner with his crossbow in hand and a grim expression that suggested he was prepared to ask questions after shooting things.
+
+"Commander!" Detritus called out, then stopped and looked around at the peaceful street scene with evident confusion. "Carrot said dere was trouble. Where is trouble?"
+
+"Just missed it, Sergeant," Vimes said, noting the relief in Death's skeletal features. "Professional consultation, you might say."
+
+"Hmph." Detritus looked disappointed. "Dey always run away when I get here. Very inconsiderate."
+
+Death nodded with what might have been approval. SERGEANT DETRITUS. YOUR TIMING IS... FORTUITOUS.
+
+"Oh, hello Death," Detritus said with the sort of casual acknowledgment one professional might offer another. "You here on business?"
+
+NOT... EXACTLY. THERE APPEAR TO BE... COMPLICATIONS.
+
+This left Vimes with Death and his most reliable backup officer, both of whom seemed to understand that something significant had just happened, even if the details remained unclear.
 
 "So," Vimes said, lighting a cigar with hands that were steadier than he felt. "Someone or something is keeping me alive, and you don't know who?"
 
@@ -1627,7 +1672,27 @@ The Auditors huddled together in what might have been panic, if cosmic entities 
 
 "I just did." Vimes sat back down at his desk and picked up his pen. "Captain Carrot, please escort these entities off the premises. And remind them that interfering with a police investigation is also illegal under municipal law."
 
-As the Auditors faded back into whatever dimension they came from, Carrot turned to Vimes with the sort of expression that suggested either admiration or concern for his commander's mental health.
+The door to the office opened and Sergeant Detritus entered, taking in the scene with the sort of professional assessment that came from years of backup work. He looked at the three gray figures, at Vimes behind his desk, and at Carrot standing ready with handcuffs.
+
+"Dese are de entities dat been causing trouble?" Detritus asked, studying the Auditors with interest. "Dey not very impressive. I thought cosmic beings would be bigger."
+
+"WHAT IS THAT?" asked the first Auditor, apparently noticing Detritus for the first time.
+
+"Sergeant Detritus, City Watch," Detritus replied helpfully. "I specialize in difficult arrests and entities dat think dey are too important for municipal law."
+
+"A TROLL?" The second Auditor seemed genuinely surprised.
+
+"Very observant," Vimes said dryly. "Now, as I was saying—"
+
+"WAIT," said the third Auditor. "TROLLS ARE... MATHEMATICAL. THEY UNDERSTAND PROPER ORDER."
+
+Detritus considered this statement. "Dat true. I understand order very well. Dat why I know when someone is being disorderly." He gestured at the Auditors. "You been hiring killers to murder people. Dat very disorderly."
+
+"WE WERE RESTORING COSMIC BALANCE."
+
+"By committing crimes," Detritus said with the sort of blunt logic that made cosmic philosophy suddenly seem very simple. "Dat not balance. Dat just crime with fancy excuses."
+
+As the Auditors faded back into whatever dimension they came from—apparently having discovered that cosmic authority was somewhat less impressive when confronted by a troll with a clear understanding of right and wrong—Carrot turned to Vimes with the sort of expression that suggested either admiration or concern for his commander's mental health.
 
 "Commander, do you think that was wise?"
 
@@ -1727,7 +1792,7 @@ THAT IS THE PROBLEM. Death's voice carried the sort of uncertainty that cosmic e
 
 "You mean like that thing with the cat in the box?"
 
-PRECISELY. UNTIL OBSERVED, THE HOURGLASS EXISTED IN A STATE OF... UNCERTAINTY. IT MIGHT HAVE CONTAINED SAND OR SMOKE. OR BOTH. OR NEITHER. THE ACT OF LOOKING MAY HAVE COLLAPSED THE POSSIBILITIES INTO THIS SPECIFIC REALITY.
+PRECISELY. UNTIL OBSERVED, THE HOURGLASS EXISTED IN A STATE OF... UNCERTAINTY. IT MIGHT HAVE CONTAIN SAND OR SMOKE. OR BOTH. OR NEITHER. THE ACT OF LOOKING MAY HAVE COLLAPSED THE POSSIBILITIES INTO THIS SPECIFIC REALITY.
 
 "And normally hourglasses contain...?"
 

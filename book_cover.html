@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Occupational Hazard - Book Cover</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #2d1810, #4a2c1a);
+            font-family: 'Trebuchet MS', Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        
+        .book-cover {
+            width: 400px;
+            height: 600px;
+            position: relative;
+            border: 3px solid #8B4513;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.3), 0 5px 15px rgba(0,0,0,0.2);
+            background: linear-gradient(45deg, #FF6B35 0%, #F7931E 25%, #FFD23F 50%, #06FFA5 75%, #B19CD9 100%);
+            animation: subtleGlow 3s ease-in-out infinite alternate;
+        }
+        
+        @keyframes subtleGlow {
+            0% { box-shadow: 0 15px 35px rgba(0,0,0,0.3), 0 5px 15px rgba(255,107,53,0.2); }
+            100% { box-shadow: 0 15px 35px rgba(0,0,0,0.3), 0 5px 15px rgba(177,156,217,0.3); }
+        }
+        
+        /* Background elements */
+        .cosmic-swirls {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                radial-gradient(ellipse at 20% 20%, rgba(255,255,255,0.1) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 30%, rgba(255,107,53,0.2) 0%, transparent 60%),
+                radial-gradient(ellipse at 60% 80%, rgba(177,156,217,0.15) 0%, transparent 70%);
+            animation: swirl 8s linear infinite;
+        }
+        
+        @keyframes swirl {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        /* Death figure */
+        .death-figure {
+            position: absolute;
+            right: 20px;
+            top: 120px;
+            width: 120px;
+            height: 200px;
+            z-index: 10;
+        }
+        
+        .death-robe {
+            width: 100px;
+            height: 160px;
+            background: linear-gradient(180deg, #1a1a1a 0%, #2d2d2d 50%, #1a1a1a 100%);
+            border-radius: 50px 50px 20px 20px;
+            position: relative;
+            transform: rotate(-10deg);
+            box-shadow: inset 0 10px 20px rgba(0,0,0,0.5);
+        }
+        
+        .death-hood {
+            width: 80px;
+            height: 80px;
+            background: radial-gradient(circle, #000 30%, #1a1a1a 70%);
+            border-radius: 50%;
+            position: absolute;
+            top: -40px;
+            left: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.7);
+        }
+        
+        .death-eyes {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            width: 40px;
+            height: 20px;
+        }
+        
+        .death-eyes::before,
+        .death-eyes::after {
+            content: '';
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            background: #00FFFF;
+            border-radius: 50%;
+            box-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;
+            animation: eyeGlow 2s ease-in-out infinite alternate;
+        }
+        
+        .death-eyes::before { left: 5px; }
+        .death-eyes::after { right: 5px; }
+        
+        @keyframes eyeGlow {
+            0% { opacity: 0.8; }
+            100% { opacity: 1; }
+        }
+        
+        .scythe {
+            position: absolute;
+            right: -20px;
+            top: 40px;
+            width: 4px;
+            height: 120px;
+            background: linear-gradient(180deg, #8B4513 0%, #D2691E 50%, #8B4513 100%);
+            transform: rotate(15deg);
+        }
+        
+        .scythe::before {
+            content: '';
+            position: absolute;
+            top: -10px;
+            right: -15px;
+            width: 30px;
+            height: 20px;
+            background: linear-gradient(135deg, #C0C0C0 0%, #FFFFFF 50%, #C0C0C0 100%);
+            border-radius: 0 50% 50% 0;
+            box-shadow: 0 0 10px rgba(255,255,255,0.5);
+        }
+        
+        /* Commander Vimes */
+        .vimes-figure {
+            position: absolute;
+            left: 30px;
+            top: 200px;
+            width: 100px;
+            height: 150px;
+            z-index: 8;
+        }
+        
+        .vimes-body {
+            width: 70px;
+            height: 100px;
+            background: linear-gradient(180deg, #4A4A4A 0%, #2F2F2F 50%, #1A1A1A 100%);
+            border-radius: 10px;
+            position: relative;
+        }
+        
+        .vimes-head {
+            width: 40px;
+            height: 50px;
+            background: #FDBCB4;
+            border-radius: 50%;
+            position: absolute;
+            top: -25px;
+            left: 15px;
+        }
+        
+        .vimes-hat {
+            width: 50px;
+            height: 30px;
+            background: linear-gradient(135deg, #2F2F2F 0%, #4A4A4A 50%, #2F2F2F 100%);
+            border-radius: 25px 25px 0 0;
+            position: absolute;
+            top: -40px;
+            left: 10px;
+        }
+        
+        .badge {
+            position: absolute;
+            left: 20px;
+            top: 20px;
+            width: 15px;
+            height: 15px;
+            background: radial-gradient(circle, #FFD700 30%, #FFA500 70%);
+            border-radius: 50%;
+            box-shadow: 0 0 8px #FFD700;
+        }
+        
+        /* Auditors */
+        .auditor {
+            position: absolute;
+            background: linear-gradient(45deg, #E6E6E6 0%, #CCCCCC 50%, #B8B8B8 100%);
+            border-radius: 50%;
+            opacity: 0.8;
+            animation: float 4s ease-in-out infinite;
+        }
+        
+        .auditor1 {
+            width: 40px;
+            height: 40px;
+            top: 50px;
+            left: 50px;
+            animation-delay: 0s;
+        }
+        
+        .auditor2 {
+            width: 35px;
+            height: 35px;
+            top: 80px;
+            right: 80px;
+            animation-delay: 1s;
+        }
+        
+        .auditor3 {
+            width: 30px;
+            height: 30px;
+            top: 300px;
+            left: 100px;
+            animation-delay: 2s;
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-10px) rotate(180deg); }
+        }
+        
+        /* Title and author */
+        .title {
+            position: absolute;
+            top: 30px;
+            left: 20px;
+            right: 20px;
+            text-align: center;
+            z-index: 15;
+        }
+        
+        .title h1 {
+            font-size: 36px;
+            font-weight: bold;
+            color: #FFFFFF;
+            text-shadow: 3px 3px 0px #8B4513, 6px 6px 10px rgba(0,0,0,0.5);
+            margin: 0;
+            transform: perspective(100px) rotateX(10deg);
+            animation: titleShimmer 3s ease-in-out infinite alternate;
+        }
+        
+        @keyframes titleShimmer {
+            0% { text-shadow: 3px 3px 0px #8B4513, 6px 6px 10px rgba(0,0,0,0.5), 0 0 20px rgba(255,255,255,0.3); }
+            100% { text-shadow: 3px 3px 0px #FF6B35, 6px 6px 10px rgba(0,0,0,0.5), 0 0 30px rgba(255,107,53,0.5); }
+        }
+        
+        .subtitle {
+            position: absolute;
+            top: 85px;
+            left: 20px;
+            right: 20px;
+            text-align: center;
+            color: #FFD23F;
+            font-size: 16px;
+            font-style: italic;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+            z-index: 15;
+        }
+        
+        .author {
+            position: absolute;
+            bottom: 40px;
+            left: 20px;
+            right: 20px;
+            text-align: center;
+            z-index: 15;
+        }
+        
+        .author h2 {
+            font-size: 24px;
+            color: #FFFFFF;
+            text-shadow: 2px 2px 0px #8B4513, 4px 4px 8px rgba(0,0,0,0.5);
+            margin: 0;
+        }
+        
+        /* Magical elements */
+        .hourglass {
+            position: absolute;
+            left: 180px;
+            top: 400px;
+            width: 30px;
+            height: 50px;
+            z-index: 12;
+        }
+        
+        .hourglass-top,
+        .hourglass-bottom {
+            width: 30px;
+            height: 20px;
+            background: linear-gradient(45deg, #DAA520 0%, #FFD700 50%, #DAA520 100%);
+            border-radius: 15px 15px 5px 5px;
+        }
+        
+        .hourglass-bottom {
+            border-radius: 5px 5px 15px 15px;
+            margin-top: 10px;
+        }
+        
+        .hourglass-middle {
+            width: 10px;
+            height: 10px;
+            background: linear-gradient(45deg, #DAA520 0%, #FFD700 50%, #DAA520 100%);
+            border-radius: 50%;
+            margin: 0 auto;
+            position: relative;
+            top: -5px;
+            animation: hourglassGlow 2s ease-in-out infinite alternate;
+        }
+        
+        @keyframes hourglassGlow {
+            0% { box-shadow: 0 0 10px #FFD700; }
+            100% { box-shadow: 0 0 20px #FFD700, 0 0 30px #FFD700; }
+        }
+        
+        /* Paperwork elements */
+        .paper {
+            position: absolute;
+            background: rgba(255,255,255,0.9);
+            border: 1px solid #CCCCCC;
+            transform: rotate(var(--rotation));
+            z-index: 5;
+        }
+        
+        .paper1 {
+            width: 25px;
+            height: 35px;
+            top: 150px;
+            left: 300px;
+            --rotation: 15deg;
+            animation: paperFloat 5s ease-in-out infinite;
+        }
+        
+        .paper2 {
+            width: 30px;
+            height: 40px;
+            top: 320px;
+            right: 30px;
+            --rotation: -20deg;
+            animation: paperFloat 5s ease-in-out infinite reverse;
+        }
+        
+        .paper3 {
+            width: 20px;
+            height: 30px;
+            top: 450px;
+            left: 80px;
+            --rotation: 25deg;
+            animation: paperFloat 5s ease-in-out infinite;
+            animation-delay: 1s;
+        }
+        
+        @keyframes paperFloat {
+            0%, 100% { transform: rotate(var(--rotation)) translateY(0px); }
+            50% { transform: rotate(var(--rotation)) translateY(-15px); }
+        }
+        
+        /* Street lamp */
+        .street-lamp {
+            position: absolute;
+            left: 20px;
+            top: 100px;
+            width: 8px;
+            height: 100px;
+            background: linear-gradient(180deg, #4A4A4A 0%, #2F2F2F 100%);
+            z-index: 3;
+        }
+        
+        .lamp-light {
+            position: absolute;
+            top: -20px;
+            left: -15px;
+            width: 38px;
+            height: 30px;
+            background: radial-gradient(ellipse, rgba(255,223,63,0.8) 0%, rgba(255,223,63,0.3) 60%, transparent 100%);
+            border-radius: 50%;
+            animation: lampFlicker 3s ease-in-out infinite alternate;
+        }
+        
+        @keyframes lampFlicker {
+            0% { opacity: 0.8; }
+            100% { opacity: 1; }
+        }
+        
+        /* Adding some Josh Kirby-style flourishes */
+        .decorative-border {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            bottom: 10px;
+            border: 2px solid rgba(255,215,0,0.6);
+            border-radius: 5px;
+            pointer-events: none;
+            z-index: 20;
+        }
+        
+        .decorative-border::before {
+            content: '';
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            border: 1px solid rgba(255,107,53,0.4);
+            border-radius: 7px;
+        }
+    </style>
+</head>
+<body>
+    <div class="book-cover">
+        <div class="decorative-border"></div>
+        <div class="cosmic-swirls"></div>
+        
+        <!-- Title -->
+        <div class="title">
+            <h1>OCCUPATIONAL<br>HAZARD</h1>
+        </div>
+        <div class="subtitle">A Discworld Tale</div>
+        
+        <!-- Main Characters -->
+        <div class="death-figure">
+            <div class="death-robe">
+                <div class="death-hood">
+                    <div class="death-eyes"></div>
+                </div>
+            </div>
+            <div class="scythe"></div>
+        </div>
+        
+        <div class="vimes-figure">
+            <div class="vimes-body">
+                <div class="vimes-head"></div>
+                <div class="vimes-hat"></div>
+                <div class="badge"></div>
+            </div>
+        </div>
+        
+        <!-- Auditors -->
+        <div class="auditor auditor1"></div>
+        <div class="auditor auditor2"></div>
+        <div class="auditor auditor3"></div>
+        
+        <!-- Magical elements -->
+        <div class="hourglass">
+            <div class="hourglass-top"></div>
+            <div class="hourglass-middle"></div>
+            <div class="hourglass-bottom"></div>
+        </div>
+        
+        <!-- Bureaucratic elements -->
+        <div class="paper paper1"></div>
+        <div class="paper paper2"></div>
+        <div class="paper paper3"></div>
+        
+        <!-- Atmospheric elements -->
+        <div class="street-lamp">
+            <div class="lamp-light"></div>
+        </div>
+        
+        <!-- Author -->
+        <div class="author">
+            <h2>A Terry Pratchett-Style<br>Discworld Tale</h2>
+        </div>
+    </div>
+</body>
+</html> 

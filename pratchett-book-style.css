@@ -1,0 +1,346 @@
+/* Terry Pratchett Book Style CSS */
+
+/* Print-specific formatting */
+@page {
+    margin: 0.75in 0.6in 0.75in 0.6in;
+    size: 6in 9in;
+    
+    @top-center {
+        content: "Occupational Hazard";
+        font-family: "Times New Roman", "Liberation Serif", serif;
+        font-size: 9pt;
+        font-style: italic;
+        margin-bottom: 0.5in;
+    }
+    
+    @bottom-center {
+        content: counter(page);
+        font-family: "Times New Roman", "Liberation Serif", serif;
+        font-size: 9pt;
+        margin-top: 0.5in;
+    }
+}
+
+@page :first {
+    @top-center { content: none; }
+    @bottom-center { content: none; }
+}
+
+/* Reset and base typography */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Times New Roman", "Liberation Serif", serif;
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #1a1a1a;
+    background-color: #fefefe;
+    max-width: 5.5in;
+    margin: 0 auto;
+    padding: 0.5in;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+}
+
+/* Typography hierarchy */
+h1 {
+    font-family: "Times New Roman", "Liberation Serif", serif;
+    font-size: 18pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 1.5em 0 1em 0;
+    page-break-before: always;
+    letter-spacing: 0.02em;
+}
+
+h2 {
+    font-family: "Times New Roman", "Liberation Serif", serif;
+    font-size: 14pt;
+    font-weight: bold;
+    text-align: center;
+    margin: 1.2em 0 0.8em 0;
+    page-break-before: always;
+}
+
+h3 {
+    font-family: "Times New Roman", "Liberation Serif", serif;
+    font-size: 12pt;
+    font-weight: bold;
+    margin: 1em 0 0.6em 0;
+    text-align: left;
+}
+
+/* Title page styling */
+.title-page {
+    text-align: center;
+    page-break-after: always;
+    padding-top: 2in;
+}
+
+.title {
+    font-family: "Times New Roman", "Liberation Serif", serif;
+    font-size: 28pt;
+    font-weight: bold;
+    margin-bottom: 0.5in;
+    letter-spacing: 0.05em;
+}
+
+.subtitle {
+    font-family: "Times New Roman", "Liberation Serif", serif;
+    font-size: 16pt;
+    font-style: italic;
+    margin-bottom: 2in;
+    color: #444;
+}
+
+.author {
+    font-family: "Times New Roman", "Liberation Serif", serif;
+    font-size: 14pt;
+    margin-top: 2in;
+}
+
+/* Table of Contents */
+nav#TOC {
+    page-break-after: always;
+    margin: 1in 0;
+}
+
+nav#TOC h1 {
+    font-size: 20pt;
+    text-align: center;
+    margin-bottom: 1em;
+    page-break-before: auto;
+}
+
+nav#TOC ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav#TOC li {
+    margin: 0.3em 0;
+    font-size: 11pt;
+}
+
+nav#TOC a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 2px;
+}
+
+nav#TOC a:hover {
+    color: #666;
+}
+
+/* Paragraph styling */
+p {
+    margin: 0 0 0.8em 0;
+    text-indent: 1.2em;
+    font-size: 11pt;
+    line-height: 1.45;
+}
+
+p:first-child,
+h1 + p,
+h2 + p,
+h3 + p,
+.chapter-start p:first-child {
+    text-indent: 0;
+}
+
+/* Chapter styling */
+.chapter-start {
+    page-break-before: always;
+    margin-top: 0.5in;
+}
+
+.chapter-start h1 {
+    margin-top: 0;
+}
+
+/* Drop caps for chapter beginnings */
+.chapter-start p:first-child::first-letter {
+    float: left;
+    font-size: 3.2em;
+    line-height: 0.9;
+    margin: 0.1em 0.1em 0 0;
+    font-weight: bold;
+}
+
+/* Scene breaks */
+hr {
+    border: none;
+    text-align: center;
+    margin: 1.5em 0;
+}
+
+hr::before {
+    content: "* * *";
+    font-size: 12pt;
+    letter-spacing: 0.5em;
+}
+
+/* Special formatting for dialogue and emphasis */
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Death's dialogue - authentic Pratchett small caps */
+.death-speech {
+    font-variant: small-caps;
+    font-weight: normal;
+    letter-spacing: 0.05em;
+    font-size: 1.05em;
+    text-transform: lowercase;
+    white-space: pre-line;
+    display: inline;
+}
+
+/* Blockquotes for special passages */
+blockquote {
+    margin: 1em 2em;
+    font-style: italic;
+    position: relative;
+}
+
+blockquote::before {
+    content: """;
+    font-size: 2em;
+    position: absolute;
+    left: -0.5em;
+    top: -0.2em;
+    color: #666;
+}
+
+/* Footnotes */
+.footnotes {
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid #ccc;
+    font-size: 9pt;
+    line-height: 1.3;
+}
+
+.footnotes ol {
+    margin: 0;
+    padding-left: 1.5em;
+}
+
+.footnotes li {
+    margin: 0.5em 0;
+}
+
+/* Links */
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Print optimizations */
+@media print {
+    body {
+        font-size: 10pt;
+        line-height: 1.3;
+    }
+    
+    h1 { font-size: 16pt; }
+    h2 { font-size: 13pt; }
+    h3 { font-size: 11pt; }
+    
+    .title { font-size: 24pt; }
+    .subtitle { font-size: 14pt; }
+    
+    /* Prevent orphans and widows */
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+    
+    h1, h2, h3 {
+        page-break-after: avoid;
+        orphans: 4;
+        widows: 4;
+    }
+}
+
+/* Screen display optimizations - Book Pages */
+@media screen {
+    html, body {
+        background: #2c2c2c;
+        padding: 0;
+        margin: 0;
+        font-size: 10pt;
+        line-height: 1.35;
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    /* Create individual pages */
+    .page {
+        width: 6in;
+        height: 9in;
+        background: white;
+        margin: 20px auto;
+        padding: 0.75in 0.6in;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        display: block;
+        page-break-after: always;
+        position: relative;
+        box-sizing: border-box;
+        flex-shrink: 0;
+    }
+    
+    /* Page numbers on screen */
+    .page::after {
+        content: attr(data-page);
+        position: absolute;
+        bottom: 0.3in;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 9pt;
+        color: #666;
+    }
+    
+    /* Chapter starts get new pages */
+    h1, h2 {
+        page-break-before: always;
+    }
+    
+    /* First page special styling */
+    .page:first-child::after {
+        display: none;
+    }
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    body {
+        padding: 0.5in;
+        margin: 10px;
+        font-size: 12pt;
+    }
+    
+    .title { font-size: 24pt; }
+    h1 { font-size: 16pt; }
+    h2 { font-size: 14pt; }
+} 

@@ -119,11 +119,19 @@ SAME ABSENCE OF PROPER PROTOCOLS, Death added, crouching beside the body with th
 
 Captain Carrot arrived with his usual punctual efficiency, followed by Sergeant Angua, who immediately began examining the crime scene with the sort of focused attention that came from having senses considerably more acute than those possessed by normal humans.
 
-"Commander," Carrot said, then stopped and stared at Death with the expression of someone whose training had covered many unusual situations but not specifically this one. "Ah. Death. Good morning."
+"Commander," Carrot said, then stopped and stared at Death with the expression of someone whose training had covered many unusual situations but not specifically this one. He tilted his head slightly, studying the tall figure with obvious puzzlement. "I'm sorry, but... have we met? You seem very familiar. I'm Captain Carrot." He extended his hand in the sort of friendly, professional manner that had made him beloved by everyone from hardened criminals to elderly shopkeepers.
 
-GOOD MORNING, CAPTAIN CARROT. I AM ASSISTING WITH THE INVESTIGATION.
+GOOD MORNING, CAPTAIN CARROT. I AM... ASSISTING WITH THE INVESTIGATION, Death replied, regarding the offered hand with what might have been uncertainty before carefully shaking it.
 
-"Right. Of course." Carrot consulted his notebook with the sort of professional adaptability that had made him the Watch's most reliable officer. "What do we know about the connection between the victims?"
+"Right, of course. Thank you for your assistance, Mr...?" Carrot waited expectantly, his pen poised over his notebook in the way that suggested he was preparing to add another name to his mental directory of everyone in Ankh-Morpork.
+
+MR... FINAL, Death said after a pause that suggested he was unfamiliar with the concept of aliases. MR. MORT FINAL.
+
+"Mr. Final," Carrot repeated, writing carefully in his notebook. "And you're here in what capacity exactly? Are you with the Guild of... Doctors? Morticians?" He looked up with the sort of earnest interest that suggested he genuinely wanted to understand everyone's professional background.
+
+I AM... A CONSULTANT. SPECIALIZING IN... TRANSITION MANAGEMENT.
+
+"Right. Of course." Carrot consulted his notebook with the sort of professional adaptability that had made him the Watch's most reliable officer, though he continued to glance at Death with that puzzled expression of someone trying to remember where they'd seen a face before. "What do we know about the connection between the victims?"
 
 "They all survived things that should have killed them," Vimes said. "Sarah Palmley survived a difficult childbirth. Thomas Keel walked away from a carriage accident. Margaret Dowdy recovered from consumption. And Marcus here was investigating insurance fraud cases involving people who'd had similar experiences."
 
@@ -165,7 +173,45 @@ Some days, he reflected, being a policeman in Ankh-Morpork required considerable
 
 ---
 
-### Chapter 3: The Investigation
+### Chapter 3: The Pattern Emerges
+
+Commander Vimes sat in his office at the Watch House, surrounded by the sort of paperwork that made violent crime seem like a relaxing hobby. Four case files lay open on his desk, each one representing what should have been a straightforward murder investigation. The fact that Death was now involved as a consulting detective suggested that straightforward had left the building some time ago, probably taking reasonable and predictable with it.
+
+He lit a cigar and reviewed the timeline that was becoming disturbingly clear.
+
+Thomas Keel had been the first. A carpenter, sixty-three years old, who'd been crossing Broad Way when a nobleman's carriage had taken the corner too fast. The horses had trampled him, the wheels had run over his chest, and by all accounts he should have been dead before the Watch arrived. Instead, he'd stood up, dusted himself off, and walked home with nothing more than a few bruises and a story that made him popular in taverns for the better part of a week.
+
+Three days later, someone had visited Thomas in his workshop. The killer had used a knife—professional work, precise placement between the ribs. The sort of wound that suggested either medical training or considerable experience in ending lives efficiently. No signs of struggle, no evidence of robbery. Thomas had been found the next morning by his apprentice, tools still laid out for the day's work.
+
+Vimes had investigated personally, of course. The scene had been clean, almost clinical. No fingerprints, no witnesses, no obvious motive. Thomas had been well-liked, paid his taxes, caused no trouble for anyone. The sort of man who lived quietly and died for no reason anyone could identify.
+
+Except, as it turned out, there was a reason. Thomas had survived something that should have killed him.
+
+Margaret Dowdy had been next. A seamstress who worked from her small apartment near the Shades, taking in mending and alterations to support herself and her elderly mother. She'd been dying of consumption for the better part of two years—the sort of slow, inevitable decline that claimed people regularly in that part of the city. The Guild of Doctors had given up on her months ago, and even the priests had started making those careful visits that suggested preparation for final arrangements.
+
+Then, quite suddenly, she'd recovered. Not improved—recovered. The cough disappeared, her color returned, her strength came back as if the disease had simply decided to find someone else to torment. Dr. Lawn had examined her personally and declared it the most complete recovery from advanced consumption he'd seen in thirty years of practice.
+
+Four days later, Margaret had died in her sleep. Poisoned, as it turned out, with something so subtle that it had taken Cheery three attempts to identify it. A compound that mimicked the symptoms of consumption relapse—the sort of thing that would have looked like natural causes if anyone hadn't been paying particularly close attention.
+
+But Vimes had been paying attention, because by then he'd started to notice the pattern.
+
+Two people, both of whom had survived things that should have killed them. Both murdered within days of their miraculous recoveries, using methods that suggested professional skill and careful planning. The sort of murders that were meant to look like accidents or natural causes, committed by someone who understood exactly what they were doing.
+
+Sarah Palmley had been the third. Difficult childbirth, survived against all odds, murdered three days later. And now Marcus Cripley, who'd been investigating insurance fraud cases involving people with similar experiences. Four murders, four people who'd cheated death, and now Death himself was asking for help investigating his own professional disruption.
+
+Vimes stubbed out his cigar and studied the evidence board that Carrot had prepared with military precision. The pattern was becoming clear—someone was systematically eliminating people who'd survived things that should have killed them. The question was who, and more importantly, why.
+
+Outside his office, he could hear the familiar sounds of the Watch House going about its business. Constables filing reports, suspects being processed, the endless bureaucracy of law enforcement grinding forward with reassuring efficiency. Normal crime, normal procedures, normal problems that could be solved with arrests and paperwork.
+
+But this case was different. It was the kind of case that reminded him why he'd become a policeman in the first place—not for the easy answers, but for the complicated questions that needed someone stubborn enough to keep asking them until the truth came out.
+
+He reached for his badge, and headed for the door. Time to gather his officers and see what they'd learned. Time to find out who was murdering people for the crime of staying alive, and put them somewhere they could think about the error of their ways for a very long time.
+
+It was, he reflected, exactly the sort of impossible case that made police work interesting. Even if he could do without Death as a consulting detective.
+
+---
+
+### Chapter 4: The Investigation
 
 Vimes gathered his officers in the main office of the Watch House, which had been cleared of wedding planning materials and returned to its more familiar state of organized chaos. Death sat in one of the visitor's chairs with the sort of stillness that suggested he was either deep in thought or had temporarily forgotten how to exist. Captain Carrot had prepared a detailed summary of the case with the sort of methodical thoroughness that made hardened criminals confess to things they hadn't even thought of doing yet, while Sergeant Colon had contributed a pot of coffee strong enough to wake the dead and possibly offer them employment opportunities.
 
@@ -207,7 +253,7 @@ There was a pause while everyone considered this. It was, Vimes reflected, eithe
 
 "You can wear your dress uniform and look respectable for once in your career."
 
-"Carrot, Angua - I want you to visit the places where these people had their near-death experiences. The hospital where Sarah gave birth, the street where Thomas had his accident. See if anything connects them."
+"Carrot, Angua - I want you to visit the places where these people had their near-death experiences. Sarah's tenement where she gave birth, the street where Thomas had his accident. See if anything connects them."
 
 "And me, Commander?" Cheery asked.
 
@@ -219,9 +265,9 @@ It was, he thought, almost relaxing.
 
 ---
 
-### Chapter 4: The Evidence
+### Chapter 5: The Evidence
 
-Cheery Littlebottom sat in the Watch House basement surrounded by the sort of scientific equipment that would have impressed the Faculty of Practical Magic at Unseen University, if the wizards had been capable of thinking about anything more practical than whose turn it was to feed the Library's more carnivorous books. The basement served as both forensic laboratory and general storage area for things that were too dangerous to keep upstairs but too valuable to throw away, which created an interesting working environment that combined cutting-edge investigative techniques with the constant possibility of accidental poisoning.
+Cheery Littlebottom sat in the Watch House basement surrounded by the sort of scientific equipment that would have impressed the Faculty of Practical Magic at Unseen University, if the wizards had been capable of thinking about anything more practical than whose turn it was to feed the Library's more carnivorous books[^rincewind]. The basement served as both forensic laboratory and general storage area for things that were too dangerous to keep upstairs but too valuable to throw away, which created an interesting working environment that combined cutting-edge investigative techniques with the constant possibility of accidental poisoning.
 
 The walls were lined with shelves containing evidence from hundreds of cases: bottled samples of suspicious substances, preserved fingerprints, weapons that had been catalogued and stored for future reference, and an impressive collection of what Cheery professionally referred to as "interesting stains." Gas lamps provided steady illumination, supplemented by the sort of specialized lighting equipment that allowed for detailed examination of evidence that preferred not to be examined in detail.
 
@@ -233,9 +279,9 @@ The laboratory door opened and Captain Carrot descended the stairs, followed by 
 
 "Any luck with the wedding venues?" Cheery asked.
 
-"Our victims all had near-death experiences at the same locations," Carrot said. "And Marcus Cripley was investigating insurance fraud involving people who nearly died but recovered unexpectedly."
+"We've visited all the locations where our victims had their near-death experiences," Carrot said. "And Marcus Cripley was investigating insurance fraud cases - people who stage near-death experiences to collect on policies."
 
-"The kind where people take out life insurance policies, then stage accidents," Angua added. "Except our victims weren't part of any fraud. They just survived when they shouldn't have."
+"But our victims weren't part of any fraud," Angua added. "Most of them couldn't even afford insurance. They just survived genuine life-threatening situations when they shouldn't have."
 
 "That explains the silk fibers," Cheery said, producing a vial. "Expensive silk, contaminated with preservation chemicals and something else—insurance documentation ink. Our killer works in the insurance industry and has access to professional preservation equipment."
 
@@ -279,7 +325,7 @@ It was, she thought, proper police work at its finest.
 
 ---
 
-### Chapter 5: Quality Control
+### Chapter 6: Quality Control
 
 The methodical review of completed assignments was a necessity that distinguished professional work from amateur enthusiasm. Each case file was examined with the sort of careful attention that might have impressed the Guild of Accountants, if members of that organization had been capable of contemplating activities more hazardous than tax assessment.
 
@@ -305,9 +351,14 @@ The killer made notes in a precise hand, documenting details that would be of in
 
 Each case presented its own technical challenges. The art lay in adapting standardized procedures to specific circumstances while maintaining the sort of professional standards that their employers had come to expect. It was skilled work, requiring not just technical competence but an understanding of larger operational objectives.
 
-The next assignment required consideration. Subject Designation: Cripley, M. Private investigator, recently involved in insurance fraud investigations. The irony was not lost on the killer—someone who made their living from discovering other people's secrets was about to discover that some secrets were more dangerous than others.
+*Assignment Review: M. Cripley*
+*Method: Blunt instrument, staged to appear accidental*
+*Complications: Subject's investigative background required enhanced cleanup protocols*  
+*Efficiency Rating: Satisfactory*
+*Time to Completion: 15 minutes*
+*Cleanup Requirements: Standard protocols plus document removal*
 
-The preliminary surveillance had been completed. Cripley maintained regular hours, lived alone, and had the sort of casual approach to personal security that suggested he had never seriously considered that someone might want him dead. This was common among people who dealt in information rather than violence. They understood blackmail and bribery, but they rarely prepared for more direct solutions to the problems they created.
+The private investigator had presented unique challenges. Someone who made their living from discovering other people's secrets had possessed the sort of professional paranoia that required careful planning. The irony had not been lost on the killer—Cripley had spent his career uncovering dangerous truths, only to discover that some secrets were more dangerous than others.
 
 A soft chime indicated an incoming communication. The killer activated the mechanism with the sort of practiced efficiency that suggested regular use.
 
@@ -323,13 +374,13 @@ The work was, in its way, a form of art. The art of correction. The restoration 
 
 It was honest work. Important work. The sort of work that made the universe function according to its proper parameters.
 
-Subject Designation: Cripley, M. scheduled for correction in approximately six hours.
+Four assignments completed. Four irregularities corrected. The system was functioning with acceptable efficiency levels.
 
-The killer returned to their desk and began finalizing the operational plan.
+The killer filed the completed reports and began reviewing the next phase of operations.
 
 ---
 
-### Chapter 6: The Breakfast Incident
+### Chapter 7: The Breakfast Incident
 
 Commander Vimes sat in Harga's House of Ribs, which occupied a special place in Ankh-Morpork's culinary ecosystem somewhere between "restaurant" and "biological warfare facility." The establishment had earned its reputation through a combination of aggressive pricing, mysterious ingredients, and the sort of robust approach to food safety that assumed anyone weak enough to be poisoned by breakfast probably wasn't cut out for life in the big city anyway.
 
@@ -401,7 +452,7 @@ He headed toward the Watch House, unconsciously falling into the measured pace t
 
 ---
 
-### Chapter 7: The Patrol
+### Chapter 8: The Patrol
 
 Vimes was on his rounds through the Shades, which was Ankh-Morpork's most honest neighborhood in the sense that everyone there was a criminal and didn't pretend otherwise. It was refreshing, in a way that could only be appreciated by someone who spent most of his working life dealing with people who stole money and called it taxation, or who murdered people and called it politics.
 
@@ -469,7 +520,7 @@ UNTIL TOMORROW, COMMANDER.
 
 ---
 
-### Chapter 8: The Visitor
+### Chapter 9: The Visitor
 
 The appointment was kept precisely at midnight, as all the best appointments were. Midnight had the advantage of being the sort of time when sensible people were asleep, which left the night free for those whose business required privacy, discretion, and the absence of witnesses.
 
@@ -541,7 +592,7 @@ Outside, the city of Ankh-Morpork continued its nightly business, unaware that i
 
 ---
 
-### Chapter 9: The Domestic Consultation
+### Chapter 10: The Domestic Consultation
 
 Vimes arrived home to find the front door of Ramkin Manor standing open in a way that suggested either burglary or Lady Sybil's complete confidence in her ability to handle whatever might wander in. Given that this was Lady Sybil, and that she had once subdued an entire dragon with nothing but stern words and proper etiquette, Vimes suspected the latter.
 
@@ -621,7 +672,7 @@ Vimes just nodded, making a mental note to have a word with Death about appropri
 
 ---
 
-### Chapter 10: The Wedding Committee  
+### Chapter 11: The Wedding Committee  
 
 Vimes arrived at the Watch House to find the main office transformed into what appeared to be a strategic planning center for an operation of considerable complexity. This was notable because the Watch House's main office was normally the sort of place where strategic planning involved deciding whether to arrest someone today or wait until tomorrow when they might commit a crime that was actually worth the paperwork. A maintenance worker was sweeping near the entrance, moving with the sort of methodical precision that suggested either exceptional professional pride or possibly a deep philosophical approach to janitorial work.
 
@@ -723,7 +774,7 @@ It was, Vimes reflected, either the most romantic thing he'd ever witnessed, or 
 
 ---
 
-### Chapter 11: The Preservative Trail
+### Chapter 12: The Preservative Trail
 
 The morning after Cheery's revelations about the mysterious preservative chemicals, Vimes found himself standing outside Moribund's, one of Ankh-Morpork's more specialized shops. The establishment occupied a narrow building wedged between a respectable bakery and a shop that claimed to sell "imported curiosities" but probably dealt in items that customs officials preferred not to examine too closely.
 
@@ -779,7 +830,7 @@ As they approached Morbius and Company—a respectable-looking establishment wit
 
 ---
 
-### Chapter 12: The Scent and the Scheme
+### Chapter 13: The Scent and the Scheme
 
 Sergeant Angua was having the sort of morning that reminded her why enhanced senses could be both a blessing and a curse. She had spent the better part of an hour following a scent trail that led from Marcus Cripley's murder scene through half of Ankh-Morpork's more respectable neighborhoods, and what she had discovered was both illuminating and deeply troubling.
 
@@ -853,7 +904,7 @@ She just hoped he was on their side.
 
 ---
 
-### Chapter 13: Administrative Complications
+### Chapter 14: Administrative Complications
 
 The communication arrived with its usual precision—midnight exactly, delivered through channels that left no trace of origin or destination. The killer opened the encoded message with practiced efficiency, though the contents proved more... challenging... than usual.
 
@@ -912,7 +963,7 @@ Time to begin.
 
 ---
 
-### Chapter 14: The Explanation
+### Chapter 15: The Explanation
 
 Vimes was working late in his office, surrounded by case files and trying to piece together the connections between the murders and the wedding venues. The Watch House had settled into its usual nighttime quiet, and the gas lamps cast long shadows across the accumulated evidence of his investigation.
 
@@ -992,7 +1043,7 @@ Either way, it was bound to be interesting.
 
 ---
 
-### Chapter 14: The Briefing
+### Chapter 16: The Briefing
 
 The next morning, Vimes called an all-hands meeting in the Watch House's main office. The timing was strategic—early enough that everyone was present but late enough that the coffee had had time to work its municipal magic on the assembled officers. The room had been cleared of the wedding planning materials that had taken up permanent residence there, and in their place was the sort of organized chaos that suggested serious police work was about to happen.
 
@@ -1092,7 +1143,7 @@ Some secrets were worth keeping, especially when they involved friendships that 
 
 ---
 
-### Chapter 15: The Visit
+### Chapter 17: The Visit
 
 Number 15 Sator Square was the sort of building that apologized for existing. Not ostentatiously shabby enough to attract the attention of municipal improvement societies, nor well-maintained enough to suggest its owner had money worth stealing, it occupied that perfect middle ground of architectural respectability that allowed its occupant to blend seamlessly into the urban landscape.
 
@@ -1196,7 +1247,7 @@ The real threat, he suspected, was just beginning.
 
 ---
 
-### Chapter 16: The Cosmic Committee Meeting
+### Chapter 18: The Cosmic Committee Meeting
 
 In a space that existed between dimensions, where geometry was optional and time moved according to bureaucratic necessity rather than physical law, three entities convened for what they termed an "emergency consultation regarding operational irregularities."
 
@@ -1276,7 +1327,7 @@ And cosmic entities, as a general rule, preferred their universes to be consider
 
 ---
 
-### Chapter 17: The Unconventional Patrol
+### Chapter 19: The Unconventional Patrol
 
 Vimes was doing his evening rounds through the more respectable parts of the city—the sort of neighborhood where the criminals wore better clothes and committed more expensive crimes, but were generally more polite about it. The transition from the Shades to Scoone Avenue was like stepping from one world into another, or possibly from one century into another, depending on one's perspective on urban development and social progress.
 
@@ -1426,7 +1477,7 @@ Vimes reflected that the Watch had come a long way from the days when their bigg
 
 ---
 
-### Chapter 18: The Revelation
+### Chapter 20: The Revelation
 
 The case had developed into something considerably more complex than a simple serial killing. Death appeared at random intervals with the casual unpredictability of a natural phenomenon, manifesting during meals, on patrol, while Vimes was wrestling with reports that seemed to reproduce when he wasn't looking, and once memorably while he was having what could charitably be called a "progress meeting" with the Patrician about the murder investigation.
 
@@ -1522,7 +1573,7 @@ But then, the Patrician was the sort of man who would have managed to negotiate 
 
 ---
 
-### Chapter 19: The Scheduling Irregularity
+### Chapter 21: The Scheduling Irregularity
 
 The assassination attempt happened on a Tuesday, which was either cosmically ironic or simply the sort of thing that happened when you were Sam Vimes and the universe had developed opinions about your continued existence.
 
@@ -1642,7 +1693,7 @@ Some irregularities, it seemed, had irregularities of their own.
 
 ---
 
-### Chapter 15: The Data Trail
+### Chapter 22: The Data Trail
 
 Two days later, Nobby and Colon returned to the Watch House with the sort of expressions that suggested they had discovered something either very important or very disturbing. Possibly both. Death was studying Cheery's forensic equipment with the sort of professional interest that suggested he was either learning new investigative techniques or contemplating career diversification.
 
@@ -1718,7 +1769,7 @@ The pieces of the puzzle were starting to form a picture that Vimes didn't like 
 
 ---
 
-### Chapter 16: The Municipal Response
+### Chapter 23: The Municipal Response
 
 The next morning brought an unusual sight: Commander Vimes walking purposefully toward the Patrician's Palace with a folder of evidence, Death walking beside him with the sort of skeletal dignity that suggested he found municipal politics interesting, and the sort of grim expression that suggested he was about to make someone's day considerably more complicated.
 
@@ -1788,7 +1839,7 @@ Vimes grinned grimly. "You want to bury them in paperwork."
 
 ---
 
-### Chapter 17: The Case Against Order
+### Chapter 24: The Case Against Order
 
 That afternoon, the entire Watch worked with the sort of focused intensity usually reserved for preventing riots or apprehending particularly dangerous criminals. But instead of chasing suspects through the city's more creative neighborhoods, they were building what Vimes had described as "the most important arrest case in the history of law enforcement."
 
@@ -1848,7 +1899,7 @@ Vimes studied the compiled evidence with growing satisfaction. It was the sort o
 
 ---
 
-### Chapter 18: The Direct Approach
+### Chapter 25: The Direct Approach
 
 The next morning, Vimes did something that few people in the history of the Disc had ever attempted: he filed a formal complaint against cosmic entities.
 
@@ -2785,6 +2836,7 @@ All things considered, he could live with that responsibility. Possibly forever.
 
 ---
 
+[^rincewind]: It was usually Rincewind, though he had developed an impressive repertoire of excuses, ranging from the medically implausible ("I've got a severe allergy to things with teeth") to the philosophically complex ("I believe feeding carnivorous books violates their literary autonomy"). The books, for their part, had learned to recognize him and would try to look especially hungry when he approached, which didn't help his motivation.
 [^sybil]: "Practical Metaphysics" for the daughters of the Ankh-Morpork aristocracy was less about debating the nature of reality and more about learning which supernatural entities one could safely invite to tea, the correct way to address a vampire with a gambling problem, and the proper fork to use when dining with a lich. It was considered a vital social skill.
 [^oblong]: The Patrician's office was known as the Oblong Office. Its peculiar dimensions, which seemed to defy the known laws of architecture, were a constant source of debate among the city's intelligentsia. Some claimed it was a subtle application of L-space, while others suggested the architect had simply been very bad at math. The truth, as with most things concerning Lord Vetinari, was probably more complicated and considerably more unsettling. The effect, however, was undisputed: it was impossible to feel comfortable there, which was precisely the point.
 [^auditors]: The Auditors of Reality hated life, not because it was evil, but because it was messy. Life had a terrible habit of being unpredictable, of creating interesting and unique things that didn't fit neatly into columns on a ledger. They dreamed of a universe that was perfectly ordered, silent, and gray. A universe where nothing ever happened, twice. Their one great weakness was that they had to obey the rules. All of them. Especially the boring ones.
